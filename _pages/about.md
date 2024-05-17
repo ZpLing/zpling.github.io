@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations 
-- *2021.09 - 2024.06*, Nanjing University of Post and Telecommunication
+- *2021.09 - 2025.06*, Nanjing University of Post and Telecommunication
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
