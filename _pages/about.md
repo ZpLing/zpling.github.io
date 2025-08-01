@@ -58,11 +58,10 @@ Xiangqi Wang, Xiangliang Zhang, *(preprint)*
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations 
-- *2021.09 - 2025.06*, Nanjing University of Post and Telecommunication
-<!-- 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- *2021.09 - 2025.06*, Nanjing University of Posts and Telecommunications
+- *2025.09 - 2027.06*, University of Pennsylvania
+
+
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Robert Bosch, Testing Engineer, Suzhou, China.
