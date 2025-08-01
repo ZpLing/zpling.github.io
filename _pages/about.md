@@ -30,10 +30,10 @@ Welcome to my website! I am Zipeng Ling, and I am currently an undergraduate stu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><embed src="https://www.arxiv.org/pdf/2507.16199" width="100%" height="300px" type="application/pdf"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2507.16199"><img src='images/pipeline.png' alt="论文配图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**WakenLLM: Evaluating Reasoning Potential and Stability in LLMs via Fine-Grained Benchmarking**
+[WakenLLM: Evaluating Reasoning Potential and Stability in LLMs via Fine-Grained Benchmarking](https://www.arxiv.org/pdf/2507.16199)
 
 **Zipeng Ling***, Yuehao Tang*
 , Shuliang Liu*
