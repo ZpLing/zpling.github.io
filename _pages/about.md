@@ -48,7 +48,7 @@ Yujun Zhou*
 Xiangqi Wang, Xiangliang Zhang. *(preprint)*
 
 # 🎖 Honors and Awards
-- *2024.12* Merit-based Scholarship: 4,000 Chinese Yuan. 
+- *2024.12* Merit-based Scholarship: 4,000 CNY. 
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations 
