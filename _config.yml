@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zipeng Ling"
-description              : ""
+description              : "Engineer & AI researcher"
 repository               : "ZpLing/zpling.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zipeng Ling"
   avatar           : "images/self.png"
   bio              : "University of Pennsylvania"
-  location         : "Philadelphia, USA"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : 

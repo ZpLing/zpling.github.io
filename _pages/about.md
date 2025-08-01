@@ -42,7 +42,7 @@ Yuehao Tang*
 , Shenghong Fu*
 , Chen Huang*
 , Kejia Huang, Yao Wan, Zhichao
-Hou, Xuming Hu, *(preprint)*
+Hou, Xuming Hu. *(preprint)*
 
 </div>
 </div>
@@ -52,7 +52,7 @@ Yujun Zhou*
 , Jiayi Ye*
 , **Zipeng Ling***
 , Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo,
-Xiangqi Wang, Xiangliang Zhang, *(preprint)*
+Xiangqi Wang, Xiangliang Zhang. *(preprint)*
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
