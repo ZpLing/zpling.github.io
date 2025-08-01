@@ -43,14 +43,19 @@ Welcome to my website! I am Zipeng Ling, and I am currently an undergraduate stu
 , Kejia Huang, Yao Wan, Zhichao
 Hou, Xuming Hu
 
+*(Preprint)*
+
 </div>
 </div>
 
-- [Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](https://arxiv.org/pdf/2506.04810), Yujun Zhou*
+- [Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study](https://arxiv.org/pdf/2506.04810) 
+Yujun Zhou*
 , Jiayi Ye*
 , **Zipeng Ling***
 , Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo,
-Xiangqi Wang, Xiangliang Zhang, preprint
+Xiangqi Wang, Xiangliang Zhang
+
+*(preprint)*
 
 <!--# 🎖 Honors and Awards-->
 <!--- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
