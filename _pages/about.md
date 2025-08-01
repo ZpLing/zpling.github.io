@@ -23,7 +23,7 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 
 # 🔥 News
 
-- *2025.06.10*: &nbsp;🎉🎉 Just graduated from NJUPT, thanks for four years! See you Nanjing!
+- *2025.06.10*: &nbsp;🎉🎉 Graduate from NJUPT today, thanks for four years! See you Nanjing!
 - *2023.09.28*: &nbsp;🎉🎉 Finished my testing engineer internship at Robert Bosch!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
