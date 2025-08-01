@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my website! I am Zipeng Ling, and I am a graduate student at University of Pennsylvania. Before that, I obtained my B.Eng degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications. My research interests lie primarily in **Natural Language Processing (NLP)**, **Trustworthy LLMs**, and **Autonomous Driving systems** for industrial applications.
+Welcome to my website! I am Zipeng Ling, a graduate student at University of Pennsylvania. Before that, I obtained my B.Eng degree in Telecommunication Engineering from Nanjing University of Posts and Telecommunications. My research interests lie primarily in **Natural Language Processing (NLP)**, **Trustworthy LLMs**, and **Autonomous Driving systems** for industrial applications.
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -35,14 +35,7 @@ Welcome to my website! I am Zipeng Ling, and I am a graduate student at Universi
 
 [WakenLLM: Evaluating Reasoning Potential and Stability in LLMs via Fine-Grained Benchmarking](https://www.arxiv.org/pdf/2507.16199)
 
-**Zipeng Ling***, 
-Yuehao Tang*
-, Shuliang Liu*
-, Junqi Yang*
-, Shenghong Fu*
-, Chen Huang*
-, Kejia Huang, Yao Wan, Zhichao
-Hou, Xuming Hu. *(preprint)*
+**Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Chen Huang\*, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu. *(preprint)*
 
 </div>
 </div>
