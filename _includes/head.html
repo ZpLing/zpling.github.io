@@ -44,4 +44,59 @@ body {
     min-height: calc((var(--vh, 1vh) * 100) - 200px);
   }
 }
+
+/* Custom scrollbar styling - Desktop only */
+@media screen and (min-width: 769px) {
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+    height: 60px; /* Limit scrollbar thumb height */
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  /* Firefox scrollbar */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #888 #f1f1f1;
+  }
+}
+
+/* Mobile: Hide custom scrollbars to prevent double scrollbars */
+@media screen and (max-width: 768px) {
+  ::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: transparent;
+  }
+  
+  /* Use native mobile scrollbars */
+  * {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+  
+  /* Hide scrollbar for webkit browsers on mobile */
+  *::-webkit-scrollbar {
+    display: none;
+  }
+}
 </style>
