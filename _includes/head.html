@@ -19,107 +19,13 @@
 </head>
 
 <style>
-/* Mobile progress bar fix */
-html {
-  height: 100vh;
-  height: calc(var(--vh, 1vh) * 100);
+/* Hide scrollbars on all devices */
+::-webkit-scrollbar {
+  display: none;
 }
 
-body {
-  min-height: 100vh;
-  min-height: calc(var(--vh, 1vh) * 100);
-}
-
-/* Fix for mobile browsers with dynamic address bars */
-@media screen and (max-width: 768px) {
-  html, body {
-    height: 100vh;
-    height: calc(var(--vh, 1vh) * 100);
-    overflow-x: hidden;
-  }
-  
-  /* Ensure proper scrolling behavior */
-  .page__content {
-    min-height: calc(100vh - 200px);
-    min-height: calc((var(--vh, 1vh) * 100) - 200px);
-  }
-}
-
-/* Custom scrollbar styling - Desktop only */
-@media screen and (min-width: 769px) {
-  ::-webkit-scrollbar {
-    width: 8px;
-  }
-
-  ::-webkit-scrollbar-track {
-    background: #f1f1f1;
-    border-radius: 4px;
-  }
-
-  ::-webkit-scrollbar-thumb {
-    background: #888;
-    border-radius: 4px;
-    height: 60px; /* Limit scrollbar thumb height */
-  }
-
-  ::-webkit-scrollbar-thumb:hover {
-    background: #555;
-  }
-
-  /* Firefox scrollbar */
-  * {
-    scrollbar-width: thin;
-    scrollbar-color: #888 #f1f1f1;
-  }
-}
-
-/* Mobile: Hide custom scrollbars to prevent double scrollbars */
-@media screen and (max-width: 768px) {
-  ::-webkit-scrollbar {
-    width: 0;
-    background: transparent;
-  }
-  
-  ::-webkit-scrollbar-track {
-    background: transparent;
-  }
-  
-  ::-webkit-scrollbar-thumb {
-    background: transparent;
-  }
-  
-  /* Use native mobile scrollbars */
-  * {
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none; /* IE and Edge */
-  }
-  
-  /* Hide scrollbar for webkit browsers on mobile */
-  *::-webkit-scrollbar {
-    display: none;
-  }
-}
-
-/* Mobile badge fix - ensure preprint badge shows on mobile */
-@media screen and (max-width: 768px) {
-  .paper-box-image {
-    position: relative;
-  }
-  
-  .badge {
-    position: absolute !important;
-    top: 10px !important;
-    left: 10px !important;
-    z-index: 10 !important;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    padding: 0.5rem 1rem !important;
-    background-color: #00369f !important;
-    color: white !important;
-    font-size: 0.8em !important;
-    border-radius: 4px !important;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2) !important;
-  }
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
 }
 </style>

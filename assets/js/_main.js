@@ -95,27 +95,4 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-  // Mobile progress bar fix
-  function fixMobileProgressBar() {
-    // Get the actual viewport height
-    let vh = window.innerHeight * 0.01;
-    document.documentElement.style.setProperty('--vh', `${vh}px`);
-    
-    // Fix for mobile browsers with dynamic address bars
-    window.addEventListener('resize', () => {
-      let vh = window.innerHeight * 0.01;
-      document.documentElement.style.setProperty('--vh', `${vh}px`);
-    });
-  }
-  
-  // Initialize mobile fix
-  fixMobileProgressBar();
-  
-  // Additional fix for iOS Safari
-  if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
-    window.addEventListener('orientationchange', function() {
-      setTimeout(fixMobileProgressBar, 100);
-    });
-  }
-
 });
