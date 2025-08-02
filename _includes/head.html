@@ -99,4 +99,27 @@ body {
     display: none;
   }
 }
+
+/* Mobile badge fix - ensure preprint badge shows on mobile */
+@media screen and (max-width: 768px) {
+  .paper-box-image {
+    position: relative;
+  }
+  
+  .badge {
+    position: absolute !important;
+    top: 10px !important;
+    left: 10px !important;
+    z-index: 10 !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    padding: 0.5rem 1rem !important;
+    background-color: #00369f !important;
+    color: white !important;
+    font-size: 0.8em !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2) !important;
+  }
+}
 </style>
