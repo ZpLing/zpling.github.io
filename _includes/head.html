@@ -17,3 +17,31 @@
 <head>
   <base target="_blank">
 </head>
+
+<style>
+/* Mobile progress bar fix */
+html {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+body {
+  min-height: 100vh;
+  min-height: calc(var(--vh, 1vh) * 100);
+}
+
+/* Fix for mobile browsers with dynamic address bars */
+@media screen and (max-width: 768px) {
+  html, body {
+    height: 100vh;
+    height: calc(var(--vh, 1vh) * 100);
+    overflow-x: hidden;
+  }
+  
+  /* Ensure proper scrolling behavior */
+  .page__content {
+    min-height: calc(100vh - 200px);
+    min-height: calc((var(--vh, 1vh) * 100) - 200px);
+  }
+}
+</style>
