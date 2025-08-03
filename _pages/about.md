@@ -57,4 +57,4 @@ Xiangqi Wang, Xiangliang Zhang. *(preprint)*
 
 
 # 💻 Internship
-- *2023.06 - 2023.09*, Robert Bosch, Testing Engineer, Suzhou, China.
+- *2023.06 - 2023.09*, Robert Bosch, Testing Engineer. Suzhou, China.
