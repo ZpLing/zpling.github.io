@@ -35,7 +35,7 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 
 **WakenLLM: Evaluating Reasoning Potential and Stability in LLMs via Fine-Grained Benchmarking**
 
-[PDF](https://www.arxiv.org/pdf/2507.16199) | [Code](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
+[PDF](https://www.arxiv.org/pdf/2507.16199)  [Code](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 
 **Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Chen Huang\*, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu. *(preprint)*
 
@@ -44,7 +44,7 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 
 - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**
 
-[PDF](https://arxiv.org/pdf/2506.04810) | [Code](https://github.com/YujunZhou/Logical)
+[PDF](https://arxiv.org/pdf/2506.04810)  [Code](https://github.com/YujunZhou/Logical)
 
 Yujun Zhou*
 , Jiayi Ye*
