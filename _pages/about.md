@@ -52,5 +52,5 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 
 
 # 💻 Internship
-- *2025.08 - 2026.01*, Bosch, XC-AS department, Software Engineer. Suzhou, China.
-- *2023.06 - 2023.09*, Bosch, XC-DX department, Test Engineer. Suzhou, China.
+- *2025.08 - 2026.01*, Bosch, XC-AS Department, Software Engineer. Suzhou, China.
+- *2023.06 - 2023.09*, Bosch, XC-DX Department, Test Engineer. Suzhou, China.
