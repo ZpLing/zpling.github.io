@@ -42,8 +42,10 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 
 - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical) Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang. *(preprint)*
 
-# 🎖 Honors and Awards
-- *2024.12* Merit-based Scholarship: 4,000 CNY. 
+# 💻 Internship
+- *2025.08 - 2026.01*, Bosch, XC-AS Department, Software Engineer. Suzhou, China.
+- *2023.06 - 2023.09*, Bosch, XC-DX Department, Test Engineer. Suzhou, China.
+
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations 
@@ -51,6 +53,5 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 - *2021.09 - 2025.06*, Nanjing University of Posts and Telecommunications
 
 
-# 💻 Internship
-- *2025.08 - 2026.01*, Bosch, XC-AS Department, Software Engineer. Suzhou, China.
-- *2023.06 - 2023.09*, Bosch, XC-DX Department, Test Engineer. Suzhou, China.
+# 🎖 Honors and Awards
+- *2024.12* Merit-based Scholarship: 4,000 CNY. 
