@@ -52,6 +52,6 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 - *2025.09 - 2027.06* (Expected), University of Pennsylvania
 - *2021.09 - 2025.06*, Nanjing University of Posts and Telecommunications
 
-
+<!-- 
 # 🎖 Honors and Awards
-- *2024.12* Merit-based Scholarship: 4,000 CNY. 
+- *2024.12* Merit-based Scholarship: 4,000 CNY.  -->
