@@ -22,9 +22,9 @@ Welcome to my website! I am Zipeng Ling, a graduate student at University of Pen
 
 
 # 🔥 News
-- *2025.08.04*: &nbsp;🎉🎉 I will be working at Bosch as a Software Engineer for the next half year! Nice to see you again, Bosch!!
+- *2025.08.04*: &nbsp;🎉🎉 I will be working at Bosch for the next half year! Nice to see you again, Bosch!!
 - *2025.06.10*: &nbsp;🎉🎉 Graduated from NJUPT today, thanks for four years! See you Nanjing!
-- *2023.09.28*: &nbsp;🎉🎉 Finished my Test Engineer internship at Bosch!
+- *2023.09.28*: &nbsp;🎉🎉 Finished my Software Engineer internship at Bosch!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
