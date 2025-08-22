@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my website! I am Zipeng Ling, a graduate student at University of Pennsylvania. Before joining UPenn, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications. My research interests lie primarily in **LLM Reasoning**, **Trustworthy LLM**, and **Autonomous Driving** for industrial applications.
+Welcome to my website! I am Zipeng Ling, a graduate student at the University of Pennsylvania. Before joining UPenn, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications. Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Previously, I had the pleasure of working with Prof. [Shichao Pei](https://scpei.github.io/). Before that, I was fortunate enough to be advised under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). My research interests lie primarily in **LLM Reasoning**, **Trustworthy LLMs**, and **Autonomous Driving** for industrial applications.
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
