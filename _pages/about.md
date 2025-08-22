@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my website! I am Zipeng Ling, currently working as a Software Engineer Intern at Bosch while pursuing my graduate studies in Electrical Engineering at the University of Pennsylvania. Before joining UPenn, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications.
 
-Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Previously, I was fortunate enough to be advised under the supervision of Prof. [Shichao Pei](https://scpei.github.io/). Before that, my research began under the supervision of [Zhuying Li](http://zhuyingli.info). My research interests lie primarily in **LLM Reasoning**, **Trustworthy LLM**, and **Autonomous Driving** for industrial applications.
+Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Previously, I was fortunate enough to be advised under the supervision of Prof. [Shichao Pei](https://scpei.github.io/). Before that, my research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). My research interests lie primarily in **LLM Reasoning**, **Trustworthy LLM**, and **Autonomous Driving** for industrial applications.
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
