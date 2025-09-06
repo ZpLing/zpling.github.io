@@ -66,4 +66,4 @@ I was born in Suzhou, China, a city long famous for its prosperous economy and b
 
 As for my taste🍜, Contrary to the stereotype many people may have about locals, I can handle 🌶️ spicy food (Sichuan Cuisine) very well!
 
-I love playing video games🎮! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached Platinum.
+I love playing video games🎮! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached **Platinum**.
