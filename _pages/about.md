@@ -59,3 +59,6 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 
 # 👨‍🏫 Mentorship
 - *2025.08 - now*: Chen Huang, Undergrad Student at HUST.
+
+# 🏙️ Misc.
+I was born in Suzhou, China, a city long famous for its prosperous economy and beautiful gardens, where [EMNLP 2025](https://2025.emnlp.org) will be held. Contrary to the stereotype many people may have on the locals, I can handle spicy food very well!
