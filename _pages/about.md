@@ -50,12 +50,12 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *2025.09 - 2027.06* (Expected). University of Pennsylvania
-- *2021.09 - 2025.06*. Nanjing University of Posts and Telecommunications
+- *2025.09 - 2027.06* (Expected): University of Pennsylvania
+- *2021.09 - 2025.06*: Nanjing University of Posts and Telecommunications
 
 
 # 🎖 Honors and Awards
-- *2024.12*. Merit-based Scholarship: 4,000 CNY.
+- *2024.12*: Merit-based Scholarship: 4,000 CNY.
 
 # 👨‍🏫 Mentoring
-- *2025.08 - now*. Chen Huang, Undergrad student at HUST.
+- *2025.08 - now*: Chen Huang, Undergrad student at HUST.
