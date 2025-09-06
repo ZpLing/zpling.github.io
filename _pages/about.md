@@ -60,6 +60,13 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 # 👨‍🏫 Mentorship
 - *2025.08 - now*: Chen Huang, Undergrad Student at HUST.
 
-# 🏙️ Misc.
-I was born in Suzhou, China, a city long famous for its prosperous economy and beautiful gardens, where [EMNLP 2025](https://2025.emnlp.org) will be held. 
+# 🎯 Misc.
+
+## 🏙️ Hometown
+I was born in Suzhou, China, a city long famous for its prosperous economy and beautiful gardens, where [EMNLP 2025](https://2025.emnlp.org) will be held.
+
+## 🍜 Food
 Contrary to the stereotype many people may have about locals, I can handle 🌶️ spicy food (Sichuan Cuisine) very well!
+
+## 🎮 Gaming
+I love playing video games! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached Platinum.
