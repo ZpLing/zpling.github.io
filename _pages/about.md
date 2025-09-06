@@ -22,9 +22,9 @@ Hello, and welcome to my website! I am Zipeng Ling, currently working as a Softw
 Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Previously, I was fortunate enough to be advised under Prof. [Shichao Pei](https://scpei.github.io/). Before that, my research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). Besides, I am also lucky knowing [Yue](https://howiehwong.github.io/), who consistently helps me along this stressful yet amazing journey. 
 
 
-# 💡 Research Interest
-- *LLM Reasoning*: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
-- *Trustworthy LLM*: By making thinking paradigms unbiased and transparent, we can expand the applications of LLMs in high-risk fields such as Legal Consultation and Medical Treatment.
+# 💡 Research Interests
+- **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
+- **Trustworthy LLM**: Through enhancing LLM reasoning to be more unbiased and transparent, we can expand the applications of LLMs in high-risk fields such as Legal Consultation and Medical Treatment.
 
 
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
