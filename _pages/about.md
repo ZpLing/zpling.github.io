@@ -58,4 +58,4 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 - *2024.12*: Merit-based Scholarship, 4,000 CNY.
 
 # 👨‍🏫 Mentoring
-- *2025.08 - now*: Chen Huang, Undergrad student at HUST.
+- *2025.08 - now*: Chen Huang, Undergrad Student at HUST.
