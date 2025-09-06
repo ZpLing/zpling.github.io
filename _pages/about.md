@@ -58,7 +58,7 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 - *2024.12*: Merit-based Scholarship. 4,000 CNY.
 
 # 👨‍🏫 Mentorship
-- *2025.08 - now*: Chen Huang, Undergrad Student at Huazhong University of Science and Technology.
+- *2025.07 - now*: Chen Huang, Undergrad Student at Huazhong University of Science and Technology.
 
 # 🎯 Misc.
 
