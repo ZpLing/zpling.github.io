@@ -24,7 +24,7 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
-- **Trustworthy LLM**: Through enhancing LLM reasoning to be more unbiased and transparent, we can expand the applications of LLMs in high-risk fields such as Legal Consultation and Medical Treatment.
+- **Trustworthy LLM**: Through enhancing LLM reasoning to be more unbiased and transparent, we can expand the applications of LLMs in high-risk fields like Legal Consultation and Medical Treatment.
 
 
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
