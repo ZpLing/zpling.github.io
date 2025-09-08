@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, and welcome to my website! I am Zipeng Ling, currently working as a Software Engineer Intern at Bosch while pursuing my graduate studies in Electrical Engineering at the University of Pennsylvania. Before joining UPenn, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications.
 
-Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Previously, I was fortunate enough to be advised under Prof. [Shichao Pei](https://scpei.github.io/). Before that, my research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). It is also my honor knowing [Yue](https://howiehwong.github.io/), who consistently helps me along this stressful yet amazing journey. **Feel free to drop me an email if you are interested in my research.**
+Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Previously, I was fortunate enough to be advised under Prof. [Shichao Pei](https://scpei.github.io/). Before that, my research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). It is also my honor knowing [Yue](https://howiehwong.github.io/), who consistently helps me along this stressful yet amazing journey. **Feel free to drop me an email (zpling0816@gmail.com) if you are interested in my research.**
 
 
 # 💡 Research Interests
