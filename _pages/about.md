@@ -47,6 +47,9 @@ Currently, I have the privilege of working with Prof. [Xuming Hu](https://xuming
 
 **Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Chen Huang\*, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu. *(preprint)*
 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/instruction_boundary_pipeline.png' alt="Instruction Boundary论文配图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
