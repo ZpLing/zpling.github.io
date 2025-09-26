@@ -55,7 +55,7 @@ Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://ww
 <div class='paper-box-text' markdown="1">
 
 **Instruction Boundary: Quantifying Biases in LLM Reasoning under
-Various Coverage** [[PDF]](https://www.arxiv.org/pdf/2509.20278)
+Various Coverage** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
 
 **Zipeng Ling\***, Yuehao Tang\*, Chen Huang\*, Shuliang Liu\*, Gaoyang Jiang, Shenghong Fu, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu. *(preprint)*
 
