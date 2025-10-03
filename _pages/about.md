@@ -22,14 +22,7 @@ Hello, and welcome to my website! I am Zipeng Ling, currently working as a Softw
 Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I had the privilege of collaborating with Prof. [Xuming Hu](https://xuminghu.github.io) and was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). My research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). I am also honored to work alongside [Yue](https://howiehwong.github.io/), who has always been offering me guidance throughout this stressful yet amazing journey. Additionally, I am grateful for the long-term collaboration with Prof. [Yao Wan](http://wanyao.me/). **Feel free to reach out ([zpling0816@gmail.com](mailto:zpling0816@gmail.com)) if you are interested in my research.**
 
 
-<div style="text-align: center; margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-  <blockquote style="margin: 0; font-family: 'Georgia', serif; font-style: italic; font-size: 1.2em; color: white; line-height: 1.6; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-    <strong>"Try something, you may succeed, you may fail. But make it your life's work to remake the world."</strong>
-  </blockquote>
-  <p style="margin: 10px 0 0 0; color: #f0f0f0; font-size: 0.9em; font-weight: 300;">
-    —— <em>Tim Cook</em>
-  </p>
-</div>
+<span style="font-family: 'Georgia', 'Times New Roman', serif; font-style: italic; color: #2c5aa0; font-weight: bold;">"Try something, you may succeed, you may fail. But make it your life's work to remake the world."</span> -----Tim Cook
 
 
 # 💡 Research Interests
