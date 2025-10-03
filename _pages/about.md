@@ -19,7 +19,7 @@ redirect_from:
 
 Hello, and welcome to my website! I am Zipeng Ling, currently working as a Software Engineer Intern at Bosch. Before that, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications.
 
-Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I had the privilege of collaborating with Prof. [Xuming Hu](https://xuminghu.github.io) and was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). My research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). I am also honored to work alongside [Yue](https://howiehwong.github.io/), who has always been offering me guidance throughout this stressful yet amazing journey. Additionally, I am grateful for the long-term collaboration with Prof. [Yao Wan](http://wanyao.me/). **Feel free to reach out to me at ([zpling0816@gmail.com](mailto:zpling0816@gmail.com)) if you are interested in my research.**
+Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I had the privilege of collaborating with Prof. [Xuming Hu](https://xuminghu.github.io) and was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). My research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). I am also honored to work alongside [Yue](https://howiehwong.github.io/), who has always been offering me guidance throughout this stressful yet amazing journey. Additionally, I am grateful for the long-term collaboration with Prof. [Yao Wan](http://wanyao.me/). **Feel free to reach out ([zpling0816@gmail.com](mailto:zpling0816@gmail.com)) if you are interested in my research.**
 
 
 # 💡 Research Interests
@@ -51,7 +51,7 @@ Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://ww
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/instruction_boundary_pipeline.png' alt="Instruction Boundary论文配图" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/llm_evaluation_pipeline.png' alt="LLM评估流程图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Instruction Boundary: Quantifying Biases in LLM Reasoning under Various Coverage** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
