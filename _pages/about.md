@@ -51,7 +51,7 @@ Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://ww
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/llm_evaluation_pipeline.png' alt="LLM评估流程图" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/instruction_boundary_pipeline.png' alt="LLM评估流程图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Instruction Boundary: Quantifying Biases in LLM Reasoning under Various Coverage** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
