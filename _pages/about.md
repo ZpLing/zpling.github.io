@@ -77,8 +77,8 @@ Currently, I am working as an intern student under Prof. [Huaxiu Yao](https://ww
 # 🎖 Honors and Awards
 - *2024.12*: Merit-based Scholarship. 4,000 CNY.
 
-# 👨‍🏫 Mentoring
-- *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology.
+<!-- # 👨‍🏫 Mentoring
+- *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
 
 # 🎯 Misc.
 
