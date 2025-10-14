@@ -65,6 +65,8 @@ include:
   - _pages
   - files
   - google3ae90f47b64933c5.html
+  - robots.txt
+  - BingSiteAuth.xml
 exclude:
   - docs
   - google_scholar_crawler
