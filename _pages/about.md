@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Zipeng Ling"
-excerpt: "AI Researcher & Software Engineer"
+excerpt: "Researcher"
 author_profile: true
 redirect_from: 
   - /about/
