@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
+permalink: /about/
+title: "About"
+excerpt: "About Zipeng Ling"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
