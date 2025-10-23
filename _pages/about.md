@@ -1,8 +1,11 @@
 ---
-permalink: /about/
-title: "About"
-excerpt: "About Zipeng Ling"
+permalink: /
+title: "Zipeng Ling"
+excerpt: "AI Researcher & Software Engineer"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
