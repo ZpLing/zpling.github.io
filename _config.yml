@@ -11,6 +11,10 @@ description              : "Researcher"
 repository               : "ZpLing/zpling.github.io"
 google_scholar_stats_use_cdn : true
 
+# Site URL (重要！搜索引擎需要这个来生成正确的链接)
+url                      : "https://zpling.github.io"  # 网站的完整URL
+baseurl                  : ""  # GitHub Pages个人站点不需要baseurl
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
