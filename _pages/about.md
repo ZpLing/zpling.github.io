@@ -83,7 +83,7 @@ Developing toolkits to bridge connections in Intranet, automatically collecting 
 
 # 🎯 Misc.
 
-I was born in Suzhou, China, a city long famous for its prosperous economy and beautiful gardens 🏙️, where [EMNLP 2025](https://2025.emnlp.org) will be held.
+I was born in Suzhou, China, a city long famous for its prosperous economy and beautiful gardens 🏙️, where [EMNLP 2025](https://2025.emnlp.org) was held.
 
 As for my taste 🍜, contrary to the stereotype many people may have about locals, I can handle 🌶️ spicy food (Sichuan Cuisine) very well!
 
