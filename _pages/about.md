@@ -85,6 +85,6 @@ Developing toolkits to bridge connections in Intranet, automatically collecting 
 
 I was born in Suzhou, China, a city long famous for its prosperous economy and beautiful gardens 🏙️, where [EMNLP 2025](https://2025.emnlp.org) was held.
 
-As for my taste 🍜, contrary to the stereotype many people may have about locals, I can handle 🌶️ spicy food (Sichuan Cuisine) very well!
+As for my taste 🍜, contrary to the stereotype many people may have about locals, I can handle 🌶️ spicy food (Sichuan cuisine) very well!
 
 I love playing video games 🎮! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached **Platinum**.
