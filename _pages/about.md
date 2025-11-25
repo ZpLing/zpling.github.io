@@ -46,7 +46,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2507.16199"><img src='images/pipeline.png' alt="论文配图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Awakening LLMs’ Reasoning Potential: A Fine-Grained Pipeline to Evaluate and Mitigatem Vague Perception** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
+**Awakening LLMs’ Reasoning Potential: A Fine-Grained Pipeline to Evaluate and Mitigate Vague Perception** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 
 **Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Chen Huang\*, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu. *(preprint)*
 
