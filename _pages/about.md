@@ -64,7 +64,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 </div>
 </div>
 
-**Awakening LLMs’ Potential Reasoning: A Fine-Grained Pipeline to Evaluate and Mitigate Vague Perception** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical) 
+**Awakening LLMs’ Reasoning Potential: A Fine-Grained Pipeline to Evaluate and Mitigatem Vague Perception** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical) 
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang. **(EMNLP)**
 
 # 💻 Internship
