@@ -75,8 +75,9 @@ Developing toolkits to bridge connections in Intranet, automatically collecting 
 - *2021.09 - 2025.06*: Nanjing University of Posts and Telecommunications
 
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Services
 - *2024.12*: Merit-based Scholarship. 4,000 CNY.
+- AAAI Program Committee
 
 <!-- # 👨‍🏫 Mentoring
 - *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
