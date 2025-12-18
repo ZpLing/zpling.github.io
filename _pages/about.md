@@ -77,7 +77,7 @@ Developing toolkits to bridge connections in Intranet, automatically collecting 
 
 # 🎖 Honors and Services
 - *2024.12*: Merit-based Scholarship. 4,000 CNY.
-- AAAI Program Committee
+- Program Committee: AAAI
 
 <!-- # 👨‍🏫 Mentoring
 - *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
