@@ -69,9 +69,9 @@ Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang
 # 💻 Internship
 - *2026.01*: Robert Bosch, NLP Research Intern. Shanghai, China. \\
 Focusing on **Deep Research via LLM Agent and Reasoning** for Intranet Database.
-- *2025.08 - 2025.12*: Robert Bosch, Software Engineer Intern. Suzhou, China. \\
+- *2025.08 - 2025.12*: Robert Bosch, Data Analyst Intern. Suzhou, China. \\
 Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
-- *2023.06 - 2023.09*: Robert Bosch, Software Engineer Intern. Suzhou, China.
+- *2023.06 - 2023.09*: Robert Bosch, Software Engineer Intern. Suzhou, China. \\
 Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
