@@ -67,7 +67,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang. **(EMNLP)**
 
 # 💻 Internship
-- *2026.01*: Robert Bosch, NLP Research Intern. Shanghai, China.
+- *2026.01*: Robert Bosch, NLP Research Intern. Shanghai, China. \\
 Focusing on **Deep Research via LLM Agent and Reasoning** for Intranet Database.
 - *2023.06 - 2023.09, 2025.08 - 2025.12*: Robert Bosch, Software Engineer Intern. Suzhou, China. \\
 Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
