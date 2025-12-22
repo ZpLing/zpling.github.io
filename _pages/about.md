@@ -76,7 +76,7 @@ Helping improve software system reliability by enhancing function line coverage,
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *2021.09 - 2025.06*: Nanjing University of Posts and Telecommunications
+- *2021.09 - 2025.06*: B.Eng, Nanjing University of Posts and Telecommunications
 
 
 # 🎖 Honors and Services
