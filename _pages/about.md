@@ -35,7 +35,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉 One paper has been accpected by EMNLP. I will be working at Bosch again for the next year!
-- *2025.06*: &nbsp;🎉 Graduated from NJUPT today, thanks for four years! See you Nanjing!
+- *2025.06*: &nbsp;🎉 Graduated from NJUPT today, thanks for four years!
 - *2023.09*: &nbsp;🎉 Finished my Software Engineer internship at Bosch!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
