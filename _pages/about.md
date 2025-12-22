@@ -66,7 +66,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical) 
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang. **(EMNLP Findings)**
 
-# 💻 Internship
+# 💻 Work Experiences
 - *2026.01*: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
 Conducting **Deep Research** based on LLM agentic systems with multi-step reasoning over intranet databases.
 - *2025.08 - 2025.12*: Bosch Automotive Products (Suzhou) Co.Ltd., Data Analyst Intern. Suzhou, China. \\
