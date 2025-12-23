@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, and welcome to my website! I am Zipeng Ling, currently working as a Data Analyst Intern at Bosch. Prior to this, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications.
+Hello, and welcome to my website! I am Zipeng Ling, currently working as a NLP Research Intern at Bosch. Prior to this, I obtained my B.Eng degree in Communication Engineering from Nanjing University of Posts and Telecommunications.
 
 At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). Previously, I had the privilege of collaborating with Prof. [Xuming Hu](https://xuminghu.github.io). Before this, I was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). Earlier, my research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). It is also my honor to work alongside [Yue Huang](https://howiehwong.github.io/), who has always been offering me guidance throughout this stressful yet amazing journey. Additionally, I am grateful for the long-term collaboration with Prof. [Yao Wan](http://wanyao.me/). **Feel free to reach out ([zpling0816@gmail.com](mailto:zpling0816@gmail.com)) if you are interested in my research.**
 
