@@ -58,7 +58,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 
 **Quantifying LLM Biases Across Instruction Boundary in Mixed Question Forms** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
 
-**Zipeng Ling\***, Yuehao Tang\*, Chen Huang\*, Shuliang Liu\*, Gaoyang Jiang, Shenghong Fu, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu. *(preprint)*
+**Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu. *(preprint)*
 
 </div>
 </div>
