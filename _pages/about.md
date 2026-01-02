@@ -81,7 +81,7 @@ Helping improve software system reliability by enhancing function line coverage,
 
 # 🎖 Honors and Services
 - *2024.12*: Merit-based Scholarship. 4,000 CNY.
-- Program Committee: AAAI 2025
+- Program Committee: AAAI 2026
 
 <!-- # 👨‍🏫 Mentoring
 - *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
