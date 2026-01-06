@@ -67,7 +67,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang. **(EMNLP Findings)**
 
 # 💻 Work Experiences
-- *2026.01*: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
+- *2026.01* - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
 Conducting **Deep Research** based on LLM Agent and RAG (Retrieval-Augmented Generation) over intranet databases.
 - *2025.08 - 2025.12*: Bosch Automotive Products (Suzhou) Co.Ltd., Data Analyst Intern. Suzhou, China. \\
 Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
