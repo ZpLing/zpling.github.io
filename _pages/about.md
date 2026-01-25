@@ -27,7 +27,7 @@ At present, I am working closely with Prof. [Huaxiu Yao](https://www.huaxiuyao.i
 
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
-- **Trustworthy LLM**: Through enhancing LLM reasoning to be more unbiased and transparent, we can expand the applications of LLMs in high-risk fields like Legal Consultation and Medical Treatment.
+- **LLM Trustworthiness**: Through enhancing LLM reasoning to be more unbiased and transparent, we can expand the applications of LLMs in high-risk fields like Legal Consultation and Medical Treatment.
 - **Information Retrieval**: For **LLM Agent** generating reports, how to optimize the usage of offline database via **RAG** (Retrieval Augmented Generation), online web info via **Web Agent** and parametric knowledge, and how to balance the trade-off between token consumption and report quality can be profound.
 
 
