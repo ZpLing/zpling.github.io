@@ -27,8 +27,8 @@ In addition to my industry work, I am also honored to engage in academic researc
 
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
-- **LLM Trustworthiness**: Through enhancing LLM reasoning to be more unbiased and transparent, we can expand the applications of LLMs in high-risk fields like Legal Consultation and Medical Treatment.
-- **Deep Research**: For **LLM Agent** generating reports, how to optimize the usage of offline database via **RAG** (Retrieval Augmented Generation), online web info via **Web Agent**, parametric knowledge, and how to balance the trade-off between token consumption and report quality can be profound.
+- **LLM Agent**: Designing LLM agents that can plan, act, and collaborate with tools to solve complex tasks in real-world, high-risk domains such as detailed reports generation and database complex tasks execution.
+- **RAG** (Retrieval Augmented Generation): Optimizing how agents leverage offline databases and how to recall multi-modal data (text, image, audio, video) in a unified form for downstream usage.
 
 
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
