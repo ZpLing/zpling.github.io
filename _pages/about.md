@@ -27,7 +27,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
-- **LLM Agent**: Designing LLM agents that can plan, act, and collaborate with tools to solve complex tasks in real-world, high-risk domains such as detailed reports generation and database complex tasks execution.
+- **LLM Agent**: Designing agentic systems that can plan, act, and collaborate with tools to solve complex tasks in real-world domains such as **Deep Research**.
 - **RAG** (Retrieval Augmented Generation): Optimizing how agents leverage offline databases and how to recall multi-modal data (text, image, audio, video) in a unified form for downstream usage.
 
 
