@@ -28,7 +28,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning processes and thinking paradigms often remain flawed and unclear.
 - **LLM Agent**: Designing agentic systems that can plan and act with tool-calling to solve complex real-world tasks such as **Deep Research**.
-- **RAG (Retrieval-Augmented Generation)**: Optimizing how agents leverage databases and how to recall multi-modal data (text, image, audio, video) in a unified form for downstream usage.
+- **RAG (Retrieval-Augmented Generation)**: Optimizing how agents leverage databases and how to recall, comprehend, and use multi-modal data (text, image, audio, video) in a unified form for generation.
 
 
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
