@@ -28,7 +28,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning traces and thinking paradigms often remain flawed and unclear.
 - **AI Agent**: Through multi-step decision making, we study how agentic systems plan,  collaborate and execute with tool-calling to solve complex tasks such as **Deep Research**.
-- **RAG (Retrieval-Augmented Generation)**: Optimizing how LLMs retrieve, comprehend, and make use of multi-modal information (text, image, audio, video) in databases for generation.
+- **Retrieval-Augmented Generation (RAG)**: Optimizing how LLMs retrieve, comprehend, and make use of multi-modal information (text, image, audio, video) in databases for generation.
 
 
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -69,7 +69,7 @@ Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang
 
 # 💻 Work Experiences
 - *2026.01* - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
-Conducting **Deep Research** based on LLM Agent and RAG (Retrieval-Augmented Generation) over intranet databases.
+Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
 - *2025.08 - 2025.12*: Bosch Automotive Products (Suzhou) Co.Ltd., Data Analyst Intern. Suzhou, China. \\
 Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
 - *2023.06 - 2023.09*: Bosch Automotive Products (Suzhou) Co.Ltd., Software Engineer Intern. Suzhou, China. \\
