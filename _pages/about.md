@@ -27,7 +27,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 
 # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and produce correct outputs, their reasoning traces and thinking paradigms often remain flawed and unclear.
-- **AI Agent**: We study how agentic systems plan,  collaborate and execute with tool-calling to solve complex tasks through multi-step decision making.
+- **AI Agent**: We study how agentic systems plan,  collaborate and execute to solve complex tasks through multi-step decision-making.
 - **Retrieval-Augmented Generation (RAG)**: Optimizing how LLMs retrieve, comprehend, and make use of multi-modal information (text, image, audio, video) in databases for generation.
 
 
