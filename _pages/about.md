@@ -97,4 +97,4 @@ Helping improve software system reliability by enhancing function line coverage,
 
 - I love playing video games 🎮! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached **Platinum**.
 
-- I am happy to get to know you, and I'm thankful for the hard work that led me here to you😄.
+- I am happy to know you, and I'm thankful for the hard work that led me here to you😄.
