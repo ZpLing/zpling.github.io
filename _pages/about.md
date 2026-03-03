@@ -96,3 +96,5 @@ Helping improve software system reliability by enhancing function line coverage,
 - As for my taste 🍜, contrary to the stereotype many people may have about locals, I can handle 🌶️ spicy food (Sichuan cuisine) very well!
 
 - I love playing video games 🎮! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached **Platinum**.
+
+- I am grateful for getting to know you, and I'm thankful for the hard work that led me here to you❤️.
