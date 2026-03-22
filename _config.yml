@@ -35,6 +35,8 @@ author:
   email            : "zpling0816@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
+  # CV：站内 PDF 见 files/lzp-cv.pdf
+  cv               : "/files/lzp-cv.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
