@@ -70,10 +70,11 @@ In addition to my industry work, I am also honored to engage in academic researc
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
 
 # 💻 Work Experiences
-- *2026.01* - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
+- *2025.08  - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
 Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
-- *2025.08 - 2025.12*: Bosch Automotive Products (Suzhou) Co.Ltd., Data Analyst Intern. Suzhou, China. \\
+
 Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
+
 - *2023.06 - 2023.09*: Bosch Automotive Products (Suzhou) Co.Ltd., Software Engineer Intern. Suzhou, China. \\
 Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
 <!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
