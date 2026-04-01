@@ -73,7 +73,7 @@ Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
 
 # 💻 Work Experiences
-- *2025.08  - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China.
+- *2025.08  - Now*: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China.
 
   Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
 
