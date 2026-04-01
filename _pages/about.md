@@ -67,17 +67,23 @@ In addition to my industry work, I am also honored to engage in academic researc
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] **Zipeng Ling**, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
 - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">EMNLP Findings 2025</span> **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical) 
+Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
+
+- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">EMNLP Findings 2025</span> **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical) 
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
 
 # 💻 Work Experiences
-- *2025.08  - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China. \\
-Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
+- *2025.08  - Now: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China.
 
-Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
+  Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
 
-- *2023.06 - 2023.09*: Bosch Automotive Products (Suzhou) Co.Ltd., Software Engineer Intern. Suzhou, China. \\
-Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
-<!--- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+  Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
+
+- *2023.06 - 2023.09*: Bosch Automotive Products (Suzhou) Co.Ltd., Software Engineer Intern. Suzhou, China.
+
+  Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
+
+<!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
 - *2021.09 - 2025.06*: B.Eng, Nanjing University of Posts and Telecommunications
