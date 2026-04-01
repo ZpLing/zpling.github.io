@@ -104,4 +104,4 @@ Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang
 
 - I love playing video games 🎮! My Valorant ranking in Asian servers (particularly Hong Kong and Tokyo) has reached **Platinum**.
 
-- I am grateful for those who help me along this way❤️.
+- I am grateful for those who help me along this way ❤️.
