@@ -132,6 +132,15 @@
       color: $text-color;
     }
   }
+
+  /* Pull job details closer to the date/role line above (same for each role block) */
+  li > p:has(+ p.work-task) {
+    margin-bottom: 0.12em;
+  }
+
+  li > p + p.work-task {
+    margin-top: -0.2em;
+  }
 }
 
 .page__hero {
