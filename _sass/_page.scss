@@ -146,6 +146,11 @@
   li > p + p.work-task {
     margin-top: -0.2em;
   }
+
+  /* Same company, next role: space ≈ between Honor list items (ul li uses ~0.5em; add clear block gap) */
+  li > p.work-task:has(+ p:has(> em)) {
+    margin-bottom: 1.05em;
+  }
 }
 
 .page__hero {
