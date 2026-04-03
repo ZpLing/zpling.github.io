@@ -133,6 +133,11 @@
     }
   }
 
+  /* Tighter gap: company title → first date/role line only */
+  li > p:first-of-type:has(> strong) + p:has(> em) {
+    margin-top: -0.45em;
+  }
+
   /* Pull job details closer to the date/role line above (same for each role block) */
   li > p:has(+ p.work-task) {
     margin-bottom: 0.12em;
