@@ -116,6 +116,22 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  /* Work experiences: role descriptions in italic serif */
+  p.work-task {
+    font-family: $georgia, "Palatino Linotype", Palatino, serif;
+    font-style: italic;
+    color: $darker-gray;
+    font-size: 0.98em;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
+
+    strong {
+      font-style: italic;
+      font-weight: 600;
+      color: $text-color;
+    }
+  }
 }
 
 .page__hero {

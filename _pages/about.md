@@ -77,24 +77,25 @@ Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
 
 # 💻 Work Experiences
-- Bosch (China) Investment Ltd. Shanghai, China.
 
-*2026.01  - Now*: NLP Research Intern
+- **Bosch (China) Investment Ltd.** Shanghai, China.
 
-Conducting **Deep Research** based on AI Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
+  *2026.01 – Now:* NLP Research Intern
 
+  Conducting **Deep Research** based on AI Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
+  {: .work-task}
 
+- **Bosch Automotive Products (Suzhou) Co.Ltd.** Suzhou, China.
 
-- Bosch Automotive Products (Suzhou) Co.Ltd. Suzhou, China.
+  *2025.08 – 2025.12:* Data Analyst Intern
 
-*2025.08  - 2025.12*: Data Analyst Intern
+  Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
+  {: .work-task}
 
-Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
+  *2023.06 – 2023.09:* Software Engineer Intern
 
-*2023.06 - 2023.09*: Software Engineer Intern
-
-Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
-
+  Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
+  {: .work-task}
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
