@@ -79,9 +79,9 @@ Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang
 # 💻 Work Experiences
 - *2025.08  - Now*: Bosch (China) Investment Ltd., NLP Research Intern. Shanghai, China.
 
-  1. Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
+1. Conducting **Deep Research** based on LLM Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
 
-  2. Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
+2. Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
 
 - *2023.06 - 2023.09*: Bosch Automotive Products (Suzhou) Co.Ltd., Software Engineer Intern. Suzhou, China.
 
