@@ -77,13 +77,14 @@ Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
 
 # 💻 Work Experiences
-- *2026.01  - Now*: Bosch (China) Investment Ltd. Shanghai, China.
-NLP Research Intern
+Bosch (China) Investment Ltd. Shanghai, China.
+- *2026.01  - Now*: NLP Research Intern
 Conducting **Deep Research** based on AI Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
 
 
 
 - Bosch Automotive Products (Suzhou) Co.Ltd. Suzhou, China.
+
 *2023.06 - 2023.09*: Software Engineer Intern
 Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
 
