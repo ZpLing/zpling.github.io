@@ -46,7 +46,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2507.16199"><img src='images/pipeline.png' alt="论文配图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Awakening LLMs’ Reasoning Potential: A Fine-Grained Pipeline to Evaluate and Mitigate Vague Perception** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
+**Awakening LLMs’ Potential: A Two-Stage Pipeline to Mitigate Confirm Biases** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 
 **Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Chen Huang\*, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.
 
@@ -57,7 +57,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/instruction_boundary_pipeline.png' alt="LLM评估流程图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Quantifying LLM Biases Across Instruction Boundary in Mixed Question Forms** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
+**Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
 
 **Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.
 
