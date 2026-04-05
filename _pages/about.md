@@ -48,7 +48,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 
 **Awakening LLMs’ Potential: A Two-Stage Pipeline to Mitigate Confirm Biases** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 
-**Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Chen Huang\*, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.
+**Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.
 
 </div>
 </div>
@@ -59,7 +59,7 @@ In addition to my industry work, I am also honored to engage in academic researc
 
 **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
 
-**Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.
+**Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.
 
 </div>
 </div>
