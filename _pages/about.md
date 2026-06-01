@@ -104,23 +104,12 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 # 💻 Work Experiences
 
 - **Bosch (China) Investment Ltd.** Shanghai, China.
-
   *2026.01 – Now:* NLP Research Intern
 
-  Conducting **Deep Research** based on AI Agent and Retrieval-Augmented Generation (RAG) over intranet databases.
-  {: .work-task}
 
 - **Bosch Automotive Products (Suzhou) Co.Ltd.** Suzhou, China.
-
   *2025.08 – 2025.12:* Data Analyst Intern
-
-  Developing toolkits to bridge connections in Intranet, automatically collecting and processing data, and visualizing potential risks to improve the efficiency of problem-solving.
-  {: .work-task}
-
   *2023.06 – 2023.09:* Software Engineer Intern
-
-  Helping improve software system reliability by enhancing function line coverage, resolving decision-making bugs, and optimizing perception algorithms for driving and parking modules.
-  {: .work-task}
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
