@@ -117,7 +117,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *2026.09 - 2028.06*: M.Sc. (Fully Funded), Computing Science, University of Alberta.
+- *2026.09 - 2028.06*: M.Sc. International Amii Student (Fully Funded), Computing Science, University of Alberta.
 - *2021.09 - 2025.06*: B.Eng., Communication Engineering, Nanjing University of Posts and Telecommunications.
 
 
