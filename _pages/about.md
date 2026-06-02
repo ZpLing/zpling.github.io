@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, and welcome to my website! I am Zipeng Ling, currently working as an NLP Research Intern at Bosch. Prior to this, I obtained my B.Eng. degree in Communication Engineering from Nanjing University of Posts and Telecommunications.
+Hello, and welcome to my website! I am Zipeng Ling, a fully funded M.Sc. student at the University of Alberta and a member of the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/). Prior to this, I earned my B.Eng. in Communication Engineering from Nanjing University of Posts and Telecommunications.
 
-In addition to my industry work, I am also honored to engage in academic research. Previously, I had the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Before this, I was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). Earlier, my research began under the supervision of Prof. [Zhuying Li](http://zhuyingli.info). It is also my honor to work alongside [Yue Huang](https://howiehwong.github.io/), who has been always offering me guidance throughout this stressful yet amazing journey. Additionally, I am grateful for the long-term collaboration with Prof. [Yao Wan](http://wanyao.me/).
+Throughout my academic journey, I have been fortunate to receive support from mentors and collaborators. Previously, I had the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Before that, I was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). Earlier, my research began under the supervision of Prof. [Zhuying Li](https://zhuyingli.info/). I am also honored to work alongside [Yue Huang](https://howiehwong.github.io/), who has always offered me guidance throughout this stressful yet rewarding journey. Additionally, I am grateful for my long-term collaboration with Prof. [Yao Wan](http://wanyao.me/).
 
 
 <!-- <span style="font-family: 'Georgia', 'Times New Roman', serif; font-style: italic; color: #2c5aa0; font-weight: bold;">"Try something, you may succeed, you may fail. But make it your life's work to remake the world."</span> -----Tim Cook -->
@@ -117,8 +117,8 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- *2026.09 - 2028.06*: M.Sc International Amii Student (Fully Funded), Computing Science, University of Alberta.
-- *2021.09 - 2025.06*: B.Eng, Communication Engineering, Nanjing University of Posts and Telecommunications.
+- *2026.09 - 2028.06*: M.Sc. International Amii Student (Fully Funded), Computing Science, University of Alberta.
+- *2021.09 - 2025.06*: B.Eng., Communication Engineering, Nanjing University of Posts and Telecommunications.
 
 
 # 🎖 Honors and Services
