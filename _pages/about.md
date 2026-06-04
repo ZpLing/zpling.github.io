@@ -46,7 +46,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2507.16199"><img src='images/pipeline.png' alt="论文配图" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Awakening LLMs’ Potential: A Two-Stage Pipeline to Mitigate Confirm Biases** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
+**LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 
 **Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.
 
