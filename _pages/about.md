@@ -123,7 +123,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 
 
-- **Nanjing University of Posts and Telecommunications.** Nanjing, China.
+- **Nanjing University of Posts and Telecommunications** Nanjing, China.
 
   *2021.09 - 2025.06:* B.Eng., Communication Engineering, 
 
