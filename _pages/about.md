@@ -119,13 +119,13 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 # 📖 Education
 - **University of Alberta** Edmonton, Canada.
 
- *2026.09 - 2028.06:* M.Sc. (Fully Funded), Computing Science.
+  *2026.09 - 2028.06:* M.Sc. (Fully Funded), Computing Science.
 
 
 
 - **Nanjing University of Posts and Telecommunications.**
 
- *2021.09 - 2025.06:* B.Eng., Communication Engineering, 
+  *2021.09 - 2025.06:* B.Eng., Communication Engineering, 
 
 
 # 🎖 Honors and Services
