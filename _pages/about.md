@@ -43,46 +43,46 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 # 📝 Publications
 
-- **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
+- **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)<br>
 **Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Junqi Yang\*, Shenghong Fu\*, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
-**Preprint** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
+**Preprint**
 
 
-- **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings**<br>
+- **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)<br>
 **Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
-**Preprint** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
+**Preprint**
 
 
-- **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**<br>
+- **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)<br>
 **Zipeng Ling**, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.<br>
-**Preprint** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)
+**Preprint**
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] **Zipeng Ling**, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
-- **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory**<br>
+- **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory** [[PDF]](https://arxiv.org/pdf/2604.01007)  [[Code]](https://github.com/aiming-lab/SimpleMem)<br>
 Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
-**Preprint** [[PDF]](https://arxiv.org/pdf/2604.01007)  [[Code]](https://github.com/aiming-lab/SimpleMem)
+**Preprint**
 
 
-- **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**<br>
+- **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical)<br>
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
-**EMNLP Findings 2025** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical)
+**EMNLP Findings 2025**
 
 
-- **UXBench: Measuring the Actionability of LLM-Generated UX Critiques**<br>
+- **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)<br>
 Wenjie Wang, Yue Huang, **Zipeng Ling**, Han Bao, Hang Hua, Xiaonan Luo, Yu Jiang, Shiyi Du, Yuexing Hao, Xiaomin Li, Yuchen Ma, Dianzhuo Wang, Yanfang Ye, Xiangliang Zhang.<br>
-**Preprint** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)
+**Preprint**
 
 
-- **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents**<br>
+- **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents** [[PDF]](https://arxiv.org/pdf/2605.11928)<br>
 Xiaolin Zhou, Aojie Yuan, Zheng Luo, **Zipeng Ling**, Xixiao Pan, Yicheng Gao, Haiyue Zhang, Jiate Li, Shuli Jiang, Prince Zizhuang Wang, Zixuan Zhu, Jinbo Liu, Ryan A. Rossi, Hua Wei, Xiyang Hu.<br>
-**FAGEN@ICML 2026 Poster** [[PDF]](https://arxiv.org/pdf/2605.11928)
+**FAGEN@ICML 2026 Poster**
 
 
-- **NARRA-Gym for Evaluating Interactive Narrative Agents**<br>
+- **NARRA-Gym for Evaluating Interactive Narrative Agents** [[PDF]](https://arxiv.org/pdf/2605.08503)<br>
 Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexing Hao, Zichen Chen, Zhangchen Xu, Yunhong He, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Chaoran Chen, Toby Jia-Jun Li, Stefan Feuerriegel, Xiangliang Zhang.<br>
-**Preprint** [[PDF]](https://arxiv.org/pdf/2605.08503)
+**Preprint**
 
 
 
