@@ -43,38 +43,16 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2507.16199"><img src='images/pipeline.png' alt="论文配图" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-**LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
-
+- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 **Zipeng Ling\***, Yuehao Tang\*, Shuliang Liu\*, Junqi Yang\*, Shenghong Fu\*, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.
 
-</div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://www.arxiv.org/pdf/2509.20278"><img src='images/instruction_boundary_pipeline.png' alt="LLM评估流程图" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
-
+- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
 **Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.
 
-</div>
-</div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><a href="https://arxiv.org/pdf/2604.14121"><img src='images/craft.png' alt="LLM评估流程图" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)
-
+- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)
 **Zipeng Ling**, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.
-
-</div>
-</div>
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] **Zipeng Ling**, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
