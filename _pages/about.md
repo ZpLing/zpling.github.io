@@ -92,8 +92,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 - **Bosch Automotive Products (Suzhou) Co.Ltd.** Suzhou, China.
 
-  *2025.08 – 2025.12:* Data Analyst Intern  
-  *2023.06 – 2023.09:* Software Engineer Intern
+  *2025.08 – 2025.12:* Data Analyst Intern<br>*2023.06 – 2023.09:* Software Engineer Intern
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
