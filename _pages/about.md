@@ -45,17 +45,17 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
 **Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Junqi Yang\*, Shenghong Fu\*, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
-**preprint** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
+**Preprint** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)
 
 
 - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings**<br>
 **Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
-**preprint** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
+**Preprint** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)
 
 
 - **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**<br>
 **Zipeng Ling**, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.<br>
-**preprint** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)
+**Preprint** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] **Zipeng Ling**, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
