@@ -90,8 +90,12 @@ Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu
 Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.
 
 
+- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">Preprint</span> **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)
+Wenjie Wang, Yue Huang, **Zipeng Ling**, Han Bao, Hang Hua, Xiaonan Luo, Yu Jiang, Shiyi Du, Yuexing Hao, Xiaomin Li, Yuchen Ma, Dianzhuo Wang, Yanfang Ye, Xiangliang Zhang.
 
-- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">Preprint</span> **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents** [[PDF]](https://arxiv.org/pdf/2605.11928)
+
+
+- <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">FAGEN@ICML 2026 Poster</span> **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents** [[PDF]](https://arxiv.org/pdf/2605.11928)
 Xiaolin Zhou, Aojie Yuan, Zheng Luo, **Zipeng Ling**, Xixiao Pan, Yicheng Gao, Haiyue Zhang, Jiate Li, Shuli Jiang, Prince Zizhuang Wang, Zixuan Zhu, Jinbo Liu, Ryan A. Rossi, Hua Wei, Xiyang Hu.
 
 
