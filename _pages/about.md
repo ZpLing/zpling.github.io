@@ -114,7 +114,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 # 🎖 Honors and Services
 - *2024.12*: Merit-based Scholarship. 4,000 CNY.
-- Reviewer: AAAI 2026, ARR March 2026.
+- Reviewer: AAAI 2026, ARR March 2026, AAAI 2027.
 
 <!-- # 👨‍🏫 Mentoring
 - *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
