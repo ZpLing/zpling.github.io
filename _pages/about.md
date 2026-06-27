@@ -89,6 +89,11 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 # 💻 Work Experiences
 
+- **Alberta Machine Intelligence Institute (Amii)** Edmonton, Canada.
+
+  *2026.09 – 2028.06:* Affiliated Student Researcher
+
+
 - **Bosch (China) Investment Ltd.** Shanghai, China.
 
   *2026.01 – 2026.08:* NLP Research Intern
