@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, and welcome to my website! I am Zipeng Ling, a fully funded Thesis-based M.Sc. student at the [University of Alberta](https://www.ualberta.ca/en/index.html). Prior to this, I obtained my B.Eng. degree in Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/).
+Hello, and welcome to my website! I am Zipeng Ling, a fully funded thesis-based M.Sc. student at the [University of Alberta](https://www.ualberta.ca/en/index.html), majoring in Computing Science. Prior to this, I obtained my B.Eng. degree in Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/).
 
 Throughout my academic journey, I have been fortunate to receive support from mentors and collaborators. Previously, I spent memorable time with Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). In addition, I had the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Before that, I was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). Earlier, my research began under the supervision of Prof. [Zhuying Li](https://zhuyingli.info/). I am also honored to work alongside [Yue Huang](https://howiehwong.github.io/), who has always offered me guidance throughout this stressful yet rewarding journey. Last but not least, I am grateful for my long-term collaboration with Prof. [Yao Wan](http://wanyao.me/).
 
@@ -91,12 +91,12 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 - **Bosch (China) Investment Ltd.** Shanghai, China.
 
-  *2026.01 – 2026.08:* NLP Research Intern
+  *2025.08 – 2026.08:* NLP Research Intern
 
 
 - **Bosch Automotive Products (Suzhou) Co.Ltd.** Suzhou, China.
 
-  *2025.08 – 2025.12:* Data Analyst Intern<br>*2023.06 – 2023.09:* Software Engineer Intern
+  *2023.06 – 2023.09:* Software Engineer Intern
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
