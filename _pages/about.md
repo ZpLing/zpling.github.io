@@ -89,12 +89,12 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 # 💻 Work Experiences
 
-- **Alberta Machine Intelligence Institute (Amii)** Alberta, Canada.
+- **Alberta Machine Intelligence Institute (Amii)**. Alberta, Canada.
 
   *2026.09 – 2028. 06:* Student Researcher
 
 
-- **Bosch** Suzhou, China.
+- **Bosch**. Suzhou, China.
 
   *2025.08 – 2026.08:* NLP Research Intern<br>
   *2023.06 – 2023.09:* Software Engineer Intern
@@ -102,13 +102,13 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Education
-- **University of Alberta** Edmonton, Canada.
+- **University of Alberta**. Edmonton, Canada.
 
   *2026.09 - 2028.06:* Fully Funded Thesis-Based M.Sc., Computing Science.
 
 
 
-- **Nanjing University of Posts and Telecommunications** Nanjing, China.
+- **Nanjing University of Posts and Telecommunications**. Nanjing, China.
 
   *2021.09 - 2025.06:* B.Eng., Communication Engineering, 
 
