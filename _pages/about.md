@@ -90,6 +90,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 # 💻 Work Experiences
 
 - **Alberta Machine Intelligence Institute (Amii)** Alberta, Canada.
+
   *2026.09 – 2028. 06:* Student Researcher
 
 
