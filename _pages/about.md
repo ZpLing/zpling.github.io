@@ -114,7 +114,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 
 # 🎖 Honors and Services
-- Merit-based Scholarship. 4,000 CNY.
+- Merit-based Scholarship. 570 USD.
 - Conference Reviewer: AAAI 2026, ARR March 2026, AAAI 2027.
 
 <!-- # 👨‍🏫 Mentoring
