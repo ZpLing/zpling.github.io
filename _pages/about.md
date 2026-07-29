@@ -113,6 +113,10 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
   *2021.09 - 2025.06:* B.Eng., Communication Engineering, 
 
 
+# 🎤 Invited Talks
+- *2026.07*: &nbsp;[Lee Language Lab](https://www.cs.toronto.edu/~ealee/). Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.
+
+
 # 🎖 Honors and Services
 - Merit-based Scholarship. 570 USD.
 - Conference Reviewer: AAAI 2026, ARR March 2026, AAAI 2027.
