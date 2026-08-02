@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, and welcome to my website! I am Zipeng Ling, a fully funded thesis-based M.Sc. student at the [University of Alberta](https://www.ualberta.ca/en/index.html), majoring in Computing Science. Prior to this, I obtained my B.Eng. degree in Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/).
+Hello, and welcome to my website! I am Zipeng Ling, a fully funded Research M.Sc. student at the [University of Alberta](https://www.ualberta.ca/en/index.html), majoring in Computing Science. Prior to this, I obtained my B.Eng. degree in Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/).
 
 Throughout my academic journey, I have been fortunate to receive support from mentors and collaborators. Previously, I spent memorable time with Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). In addition, I had the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Before that, I was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). Earlier, my research began under the supervision of Prof. [Zhuying Li](https://zhuyingli.info/). I am also honored to work alongside [Yue Huang](https://howiehwong.github.io/), who has always offered me guidance throughout this stressful yet rewarding journey. Last but not least, I am grateful for my long-term collaboration with Prof. [Yao Wan](http://wanyao.me/).
 
@@ -104,7 +104,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 # 📖 Education
 - **University of Alberta**. Edmonton, Canada.
 
-  *2026.09 - 2028.06:* Fully Funded Thesis-Based M.Sc., Computing Science.
+  *2026.09 - 2028.06:* Fully Funded Research M.Sc., Computing Science.
 
 
 
