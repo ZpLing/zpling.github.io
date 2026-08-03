@@ -120,7 +120,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 # 🎖 Honors and Awards
 - *2024.12:* Merit-based Scholarship.
 - *2026.07:* Graduate Student Award.
-- *2026.08:* Bosch Q2 Innovation Promotion Award.
+- *2026.08:* Bosch 2026 Q2 Innovation Promotion Award.
 
 
 # 🤝 Services
