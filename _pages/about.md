@@ -117,11 +117,15 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 - *2026.07*: &nbsp;[Lee Language Lab](https://www.cs.toronto.edu/~ealee/). Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.
 
 
-# 🎖 Honors and Services
-- Dec. 2024: Merit-based Scholarship.
-- July 2026: Graduate Student Award.
-- Aug. 2026: Bosch Q2 Innovation Promotion Award.
-- Conference Reviewer: AAAI 2026, ARR March 2026, AAAI 2027.
+# 🎖 Honors and Awards
+- *2024.12:* Merit-based Scholarship.
+- *2026.07:* Graduate Student Award.
+- *2026.08:* Bosch Q2 Innovation Promotion Award.
+
+
+# 🤝 Services
+- **Conference Reviewer:** AAAI 2026, ARR March 2026, AAAI 2027.
+- **Teaching Assistant:** ESL (English as a Second Language).
 
 <!-- # 👨‍🏫 Mentoring
 - *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
