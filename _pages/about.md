@@ -118,8 +118,9 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 
 # 🎖 Honors and Services
-- Merit-based Scholarship. 570 USD.
-- Graduate Student Award. 2,250 USD.
+- Dec. 2024: Merit-based Scholarship.
+- July 2026: Graduate Student Award.
+- Aug. 2026: Bosch Q2 Innovation Promotion Award.
 - Conference Reviewer: AAAI 2026, ARR March 2026, AAAI 2027.
 
 <!-- # 👨‍🏫 Mentoring
