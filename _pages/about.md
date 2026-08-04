@@ -123,8 +123,6 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 - *2024.12:* Merit-based Scholarship.
 
 
-
-
 # 🤝 Services
 - **Conference Reviewer:** AAAI 2026, ARR March 2026, AAAI 2027.
 - **Teaching Assistant:** ESL (English as a Second Language).
