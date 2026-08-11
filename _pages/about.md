@@ -70,9 +70,9 @@ Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang
 **EMNLP 2025 Findings. Suzhou, China.**
 
 
-- **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)<br>
+<!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)<br>
 Wenjie Wang, Yue Huang, **Zipeng Ling**, Han Bao, Hang Hua, Xiaonan Luo, Yu Jiang, Shiyi Du, Yuexing Hao, Xiaomin Li, Yuchen Ma, Dianzhuo Wang, Yanfang Ye, Xiangliang Zhang.<br>
-**Preprint**
+**Preprint** -->
 
 
 <!-- - **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents** [[PDF]](https://arxiv.org/pdf/2605.11928)<br>
@@ -97,7 +97,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 - **Bosch**. Suzhou, China.
 
   *2025.08 – 2026.08:* NLP Research Intern<br>
-  *2023.06 – 2023.09:* Software Engineer Intern
+  <!-- *2023.06 – 2023.09:* Software Engineer Intern -->
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
@@ -114,7 +114,8 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 
 # 🎤 Invited Talk
-- *2026.07*: &nbsp;[Lee Language Lab](https://www.cs.toronto.edu/~ealee/). Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.
+- *2026.07*: &nbsp;[Lee Language Lab](https://www.cs.toronto.edu/~ealee/), Ontario Tech University, Invited by Prof. Annie En-Shiun Lee.
+Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.
 
 
 # 🎖 Honors and Awards
