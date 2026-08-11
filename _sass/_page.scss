@@ -143,6 +143,11 @@
     margin-top: -0.45em;
   }
 
+  /* Match the compact spacing between degree and advisor details */
+  #-education + ul li:first-child > p + p + p {
+    margin-top: -0.45em;
+  }
+
   /* Pull job details closer to the date/role line above (same for each role block) */
   li > p:has(+ p.work-task) {
     margin-bottom: 0.12em;

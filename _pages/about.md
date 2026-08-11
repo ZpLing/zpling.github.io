@@ -123,7 +123,7 @@ Preprint -->
 # 🎤 Invited Talk
 - *2026.07*: &nbsp;Lee Language Lab, Ontario Tech University. Invited by Prof. Annie En-Shiun Lee.
 
-  Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.
+  *Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.*
 
 
 # 🎖 Honors and Awards
