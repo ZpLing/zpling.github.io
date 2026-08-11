@@ -111,6 +111,8 @@ Preprint -->
 
   *2026.09 - 2028.06:* Thesis-based M.Sc., Computing Science.
 
+  Advised by Prof. [Zhou Yang](https://homepage.zhouyang.me/), Assistant Professor, Amii Fellow, Canada CIFAR AI Chair
+
 
 
 - **Nanjing University of Posts and Telecommunications**. Nanjing, China.
