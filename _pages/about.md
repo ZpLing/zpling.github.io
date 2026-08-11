@@ -93,7 +93,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, <u><strong>Zipeng Ling</strong></u>
 
   *2026.09 – 2028.06:* Affiliated Student Researcher
 
-  <p class="work-task"><strong>Research Topic:</strong> Trustworthy Coding Agents.</p>
+  <p class="work-task">Research Topic: Trustworthy Coding Agents.</p>
 
 
 - **Bosch**. Suzhou, China.
