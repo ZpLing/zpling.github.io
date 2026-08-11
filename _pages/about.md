@@ -133,7 +133,7 @@ Preprint -->
 
 
 # 🤝 Services
-- **Conference Reviewer:** AAAI 2026, ARR March 2026, AAAI 2027, ICSE 2027 (Sub Reviewer).
+- **Conference Reviewer:** AAAI, ACL Rolling Review, ICSE (Sub Reviewer).
 - **Teaching Assistant:** ESL (English as a Second Language) @ NJUPT.
 
 <!-- # 👨‍🏫 Mentoring
