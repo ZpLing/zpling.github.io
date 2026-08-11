@@ -44,12 +44,12 @@ Throughout my academic journey, I have been fortunate to receive support from me
 # 📝 Publications
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)<br>
-**Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Junqi Yang\*, Shenghong Fu\*, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
+**Zipeng Ling**, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
 **Preprint**
 
 
 <!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)<br>
-**Zipeng Ling\***, Shuliang Liu\*, Yuehao Tang\*, Chen Huang\*, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
+**Zipeng Ling**, Shuliang Liu, Yuehao Tang, Chen Huang, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
 **Preprint** -->
 
 
@@ -66,7 +66,7 @@ Jiaqi Liu, **Zipeng Ling**, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu
 
 
 - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical)<br>
-Yujun Zhou\*, Jiayi Ye\*, **Zipeng Ling\***, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
+Yujun Zhou, Jiayi Ye, **Zipeng Ling**, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
 **EMNLP 2025 Findings. Suzhou, China.**
 
 
@@ -119,7 +119,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 
 # 🎤 Invited Talk
-- *2026.07*: &nbsp;[Lee Language Lab](https://www.cs.toronto.edu/~ealee/), Ontario Tech University, Invited by Prof. Annie En-Shiun Lee.
+- *2026.07*: &nbsp;Lee Language Lab, Ontario Tech University, Invited by Prof. Annie En-Shiun Lee.
 
   Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis.
 
