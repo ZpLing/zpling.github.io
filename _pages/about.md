@@ -45,24 +45,24 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
-**Preprint**
+Preprint
 
 
 <!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Chen Huang, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
-**Preprint** -->
+Preprint -->
 
 
 - **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.<br>
-**Preprint**
+Preprint
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
 - **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory** [[PDF]](https://arxiv.org/pdf/2604.01007)  [[Code]](https://github.com/aiming-lab/SimpleMem)<br>
 Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
-**Preprint** &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> **Series Total: 3.5K+ GitHub Stars**)
+Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> **Series Total: 3.5K+ GitHub Stars**)
 
 
 - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical)<br>
@@ -72,7 +72,7 @@ Yujun Zhou, Jiayi Ye, <u><strong>Zipeng Ling</strong></u>, Yufei Han, Yue Huang,
 
 <!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)<br>
 Wenjie Wang, Yue Huang, <u><strong>Zipeng Ling</strong></u>, Han Bao, Hang Hua, Xiaonan Luo, Yu Jiang, Shiyi Du, Yuexing Hao, Xiaomin Li, Yuchen Ma, Dianzhuo Wang, Yanfang Ye, Xiangliang Zhang.<br>
-**Preprint** -->
+Preprint -->
 
 
 <!-- - **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents** [[PDF]](https://arxiv.org/pdf/2605.11928)<br>
@@ -82,7 +82,7 @@ Xiaolin Zhou, Aojie Yuan, Zheng Luo, <u><strong>Zipeng Ling</strong></u>, Xixiao
 
 - **NARRA-Gym for Evaluating Interactive Narrative Agents** [[PDF]](https://arxiv.org/pdf/2605.08503)<br>
 Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, <u><strong>Zipeng Ling</strong></u>, Xingjian Hu, Yuexing Hao, Zichen Chen, Zhangchen Xu, Yunhong He, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Chaoran Chen, Toby Jia-Jun Li, Stefan Feuerriegel, Xiangliang Zhang.<br>
-**Preprint** -->
+Preprint -->
 
 
 
