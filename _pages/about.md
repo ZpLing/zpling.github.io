@@ -89,14 +89,19 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, **Zipeng Ling**, Xingjian Hu, Yuexi
 
 # 💻 Work Experiences
 
-- **Alberta Machine Intelligence Institute (Amii)**. Alberta, Canada.
+- **Alberta Machine Intelligence Institute (Amii)**. Edmonton, Canada.
 
-  *2026.09 – 2028. 06:* Student Researcher
+  *2026.09 – 2028.06:* Affiliated Student Researcher
+
+  <p class="work-task"><strong>Research Topic:</strong> Trustworthy Coding Agents.</p>
 
 
 - **Bosch**. Suzhou, China.
 
-  *2025.08 – 2026.08:* NLP Research Intern<br>
+  *2025.08 – 2026.08:* NLP Research Intern
+
+  <p class="work-task">I help develop an internal DeepResearch system that ingests confidential company documents into a RAG pipeline, combines them with public resources, and generates technical reports; also a PPT agent that converts these reports into slides.</p>
+
   <!-- *2023.06 – 2023.09:* Software Engineer Intern -->
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
