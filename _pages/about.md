@@ -132,7 +132,7 @@ Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, <u><strong>Zipeng Ling</strong></u>
 
 # 🤝 Services
 - **Conference Reviewer:** AAAI 2026, ARR March 2026, AAAI 2027.
-- **Teaching Assistant:** ESL (English as a Second Language).
+- **Teaching Assistant:** ESL (English as a Second Language) @ NJUPT.
 
 <!-- # 👨‍🏫 Mentoring
 - *2025.07 - now*: Chen Huang, Undergrad at Huazhong University of Science and Technology. -->
