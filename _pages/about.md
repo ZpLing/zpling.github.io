@@ -62,7 +62,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 - **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory** [[PDF]](https://arxiv.org/pdf/2604.01007)  [[Code]](https://github.com/aiming-lab/SimpleMem)<br>
 Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
-**Preprint**
+**Preprint** &nbsp; <i class="fab fa-github" aria-hidden="true"></i> **Series Total: 3.5K+ GitHub Stars**
 
 
 - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical)<br>
