@@ -43,9 +43,27 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 # 📝 Selected Papers
 
-- **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty** [[PDF]](https://www.arxiv.org/pdf/2507.16199)  [[Code]](https://github.com/WakenLLMTeam/WakenLLM-toolkit)<br>
+<style>
+.paper-venue-line {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+}
+
+.paper-resource-links {
+  display: inline-flex;
+  flex-shrink: 0;
+  gap: 0.5rem;
+  margin-left: auto;
+  white-space: nowrap;
+}
+</style>
+
+- **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
-Preprint
+<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a><a href="https://github.com/WakenLLMTeam/WakenLLM-toolkit">[Code]</a></span></span>
 
 
 <!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)<br>
@@ -53,21 +71,21 @@ Preprint
 Preprint -->
 
 
-- **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis** [[PDF]](https://arxiv.org/pdf/2604.14121)  [[Code]](https://github.com/ZpLing/CRAFT)<br>
+- **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.<br>
-Preprint
+<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.14121">[PDF]</a><a href="https://github.com/ZpLing/CRAFT">[Code]</a></span></span>
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
-- **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory** [[PDF]](https://arxiv.org/pdf/2604.01007)  [[Code]](https://github.com/aiming-lab/SimpleMem)<br>
+- **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory**<br>
 Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
-Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> **Series Total: 3.5K+ GitHub Stars**)
+<span class="paper-venue-line"><span>Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> <strong>Series Total: 3.5K+ GitHub Stars</strong>)</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.01007">[PDF]</a><a href="https://github.com/aiming-lab/SimpleMem">[Code]</a></span></span>
 
 
-- **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study** [[PDF]](https://arxiv.org/pdf/2506.04810)  [[Code]](https://github.com/YujunZhou/Logical)<br>
+- **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**<br>
 Yujun Zhou, Jiayi Ye, <u><strong>Zipeng Ling</strong></u>, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
-**EMNLP 2025 Findings. Suzhou, China.**
+<span class="paper-venue-line"><strong>EMNLP 2025 Findings. Suzhou, China.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2506.04810">[PDF]</a><a href="https://github.com/YujunZhou/Logical">[Code]</a></span></span>
 
 
 <!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)<br>
