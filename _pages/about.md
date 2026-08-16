@@ -61,7 +61,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 </style>
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
-<u><strong>Zipeng Ling</strong></u>\*, Shuliang Liu\*, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
+<u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
 <span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a></span></span>
 
 
@@ -82,9 +82,9 @@ Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han,
 <span class="paper-venue-line"><span>Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> <strong>Series Total: 3.5K+ GitHub Stars</strong>)</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.01007">[PDF]</a><a href="https://github.com/aiming-lab/SimpleMem">[Code]</a></span></span>
 
 
-- **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**<br>
+<!-- - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**<br>
 Yujun Zhou, Jiayi Ye, <u><strong>Zipeng Ling</strong></u>, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
-<span class="paper-venue-line"><strong>EMNLP 2025 Findings. Suzhou, China.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2506.04810">[PDF]</a><a href="https://github.com/YujunZhou/Logical">[Code]</a></span></span>
+<span class="paper-venue-line"><strong>EMNLP 2025 Findings. Suzhou, China.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2506.04810">[PDF]</a></span></span> -->
 
 
 <!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)<br>
