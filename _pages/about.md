@@ -61,7 +61,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 </style>
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
-<u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
+<u><strong>Zipeng Ling</strong></u>\*, Shuliang Liu\*, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
 <span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a></span></span>
 
 
