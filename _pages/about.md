@@ -62,20 +62,20 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
-<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a><a href="https://github.com/WakenLLMTeam/WakenLLM-toolkit">[Code]</a></span></span>
+<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a></span></span>
 
 
-<!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)  [[Code]](https://github.com/ZpLing/Instruction-Boundary)<br>
+<!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Chen Huang, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
 Preprint -->
 
 
 - **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.<br>
-<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.14121">[PDF]</a><a href="https://github.com/ZpLing/CRAFT">[Code]</a></span></span>
+<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.14121">[PDF]</a></span></span>
 
 
-<!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] [Code TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
+<!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
 - **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory**<br>
 Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
@@ -87,7 +87,7 @@ Yujun Zhou, Jiayi Ye, <u><strong>Zipeng Ling</strong></u>, Yufei Han, Yue Huang,
 <span class="paper-venue-line"><strong>EMNLP 2025 Findings. Suzhou, China.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2506.04810">[PDF]</a><a href="https://github.com/YujunZhou/Logical">[Code]</a></span></span>
 
 
-<!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)  [[Code]](https://github.com/Jackwwj619/UXBench)<br>
+<!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)<br>
 Wenjie Wang, Yue Huang, <u><strong>Zipeng Ling</strong></u>, Han Bao, Hang Hua, Xiaonan Luo, Yu Jiang, Shiyi Du, Yuexing Hao, Xiaomin Li, Yuchen Ma, Dianzhuo Wang, Yanfang Ye, Xiangliang Zhang.<br>
 Preprint -->
 
