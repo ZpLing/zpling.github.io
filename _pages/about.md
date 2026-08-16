@@ -145,7 +145,6 @@ Preprint -->
 
 # 🎖 Honors and Awards
 - *2026.08:* Bosch 2026 Q2 Innovation Promotion Award.
-- *2026.07:* Graduate Student Award.
 - *2024.12:* Merit-based Scholarship.
 
 
