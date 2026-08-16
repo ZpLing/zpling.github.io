@@ -47,8 +47,8 @@ Throughout my academic journey, I have been fortunate to receive support from me
 .paper-venue-line {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   width: 100%;
 }
 
@@ -56,7 +56,6 @@ Throughout my academic journey, I have been fortunate to receive support from me
   display: inline-flex;
   flex-shrink: 0;
   gap: 0.5rem;
-  margin-left: auto;
   white-space: nowrap;
 }
 </style>
