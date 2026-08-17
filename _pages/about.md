@@ -83,7 +83,7 @@ Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han,
 
 
 - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**<br>
-Yujun Zhou, Jiayi Ye, <u><strong>Zipeng Ling</strong></u>, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
+Yujun Zhou\*, Jiayi Ye\*, <u><strong>Zipeng Ling</strong></u>\*, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
 <span class="paper-venue-line"><strong>EMNLP 2025 Findings. Suzhou, China.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2506.04810">[PDF]</a></span></span>
 
 
