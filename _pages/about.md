@@ -119,7 +119,6 @@ Preprint -->
 
   <p class="work-task">I help develop an internal DeepResearch system that ingests confidential company documents into a RAG pipeline, combines them with public resources, and generates technical reports; also a PPT agent that converts these reports into slides.</p>
 
-  <!-- *2023.06 – 2023.09:* Software Engineer Intern -->
 
 <!-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
