@@ -35,7 +35,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 Two papers have been accepted to the EMNLP 2026 Main Conference!
+- *2026.08*: &nbsp;🎉 Two papers are accepted by EMNLP 2026 Main Conference!
 - *2025.08*: &nbsp;🎉 One paper is accepted by EMNLP 2025 Findings!
 - *2025.06*: &nbsp;🎉 Graduated from NJUPT today, thanks for four years!
 - *2023.09*: &nbsp;🎉 Finished my Software Engineer internship at Bosch!
