@@ -35,7 +35,8 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 One paper is accepted by EMNLP 2025!
+- *2026.08*: &nbsp;🎉 Two papers are accepted by EMNLP 2026 Main Conference!
+- *2025.08*: &nbsp;🎉 One paper is accepted by EMNLP 2025 Findings!
 - *2025.06*: &nbsp;🎉 Graduated from NJUPT today, thanks for four years!
 - *2023.09*: &nbsp;🎉 Finished my Software Engineer internship at Bosch!
 
@@ -62,7 +63,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 - **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Junqi Yang, Shenghong Fu, Seonil Son, Chen Huang, Kejia Huang, Yao Wan, Zhichao Hou, Xuming Hu.<br>
-<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a></span></span>
+<span class="paper-venue-line"><strong>EMNLP 2026 Main Conference. Budapest, Hungary.</strong><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a></span></span>
 
 
 <!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)<br>
@@ -72,7 +73,7 @@ Preprint -->
 
 - **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Shenghong Fu, Yuehao Tang, Seonil Son, Yao Wan, Xuming Hu.<br>
-<span class="paper-venue-line"><span>Preprint</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.14121">[PDF]</a></span></span>
+<span class="paper-venue-line"><strong>EMNLP 2026 Main Conference. Budapest, Hungary.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.14121">[PDF]</a></span></span>
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
