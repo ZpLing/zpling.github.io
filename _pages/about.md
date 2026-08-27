@@ -35,7 +35,7 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 Two papers are accepted by EMNLP 2026 Main Conference, see you in Budapest; I have finished my NLP internship at Bosch!
+- *2026.08*: &nbsp;🎉 Two papers are accepted by EMNLP 2026 Main Conference, see you in Budapest (virtually); I have finished my NLP internship at Bosch!
 - *2025.08*: &nbsp;🎉 One paper is accepted by EMNLP 2025 Findings, see you in Suzhou!
 - *2025.06*: &nbsp;🎉 Graduated from NJUPT today, thanks for four years!
 
