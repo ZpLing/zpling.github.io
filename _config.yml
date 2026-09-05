@@ -28,8 +28,8 @@ author:
   name             : "Zipeng Ling"
   avatar           : "images/self.png"
   bio              : "Son, Student, Researcher, Engineer"
-  location         : "Shanghai, China"
-  employer         : "Robert Bosch"
+  # location         : "Shanghai, China"
+  # employer         : "Robert Bosch"
   pubmed           : 
   googlescholar    : 
   email            : "zpling0816@gmail.com"
