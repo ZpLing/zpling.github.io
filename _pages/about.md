@@ -117,7 +117,7 @@ Preprint -->
 
 - <span class="org-head"><img class="org-logo" src="/images/logos/microsoft.svg" alt="" aria-hidden="true"> **Microsoft**</span><span class="org-loc">Redmond, United States</span>
 
-  *2026.09 – 2027.03:* Research Intern
+  *2026.09 – Present:* Research Intern
 
   <!-- <p class="work-task">I work in the CoreAI division.</p> -->
 
