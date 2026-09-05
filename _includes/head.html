@@ -1,0 +1,42 @@
+<meta charset="utf-8">
+
+{% include seo.html %}
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+<head>
+  <base target="_blank">
+</head>
+
+<style>
+/* Hide scrollbars on all devices */
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+/* Reduce space between Publications title and first paper */
+.paper-box:first-of-type {
+  padding-top: 0.5em !important;
+  margin-top: 0.5em !important;
+}
+
+/* Remove bottom border from paper boxes */
+.paper-box {
+  border-bottom: none !important;
+}
+</style>
