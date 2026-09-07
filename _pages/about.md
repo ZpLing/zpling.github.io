@@ -67,46 +67,54 @@ Throughout my academic journey, I have been fortunate to receive support from me
   font-weight: 600;
   letter-spacing: 0.005em;
 }
+
+.page__content a.paper-title,
+.page__content a.paper-title:visited,
+.page__content a.paper-title:hover,
+.page__content a.paper-title:focus {
+  color: #224b8d;
+  text-decoration: none;
+}
 </style>
 
-- **LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty**<br>
+- **<a class="paper-title" href="https://www.arxiv.org/pdf/2507.16199">LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty</a>**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, et al.<br>
-<span class="paper-venue-line"><strong class="paper-venue-name">EMNLP 2026 Main Conference</strong><span class="paper-resource-links"><a href="https://www.arxiv.org/pdf/2507.16199">[PDF]</a></span></span>
+<span class="paper-venue-line"><strong class="paper-venue-name">EMNLP 2026 Main Conference</strong></span>
 
 
-<!-- - **Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings** [[PDF]](https://www.arxiv.org/pdf/2509.20278)<br>
+<!-- - **<a class="paper-title" href="https://www.arxiv.org/pdf/2509.20278">Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings</a>**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, Chen Huang, Gaoyang Jiang, Shenghong Fu, Seonil Son, Junqi Yang, Yao Wan, Jiawan Zhang, Kejia Huang, Xuming Hu.<br>
 Preprint -->
 
 
-- **Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**<br>
+- **<a class="paper-title" href="https://arxiv.org/pdf/2604.14121">Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis</a>**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Seonil Son, et al.<br>
-<span class="paper-venue-line"><strong class="paper-venue-name">EMNLP 2026 Main Conference</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.14121">[PDF]</a></span></span>
+<span class="paper-venue-line"><strong class="paper-venue-name">EMNLP 2026 Main Conference</strong></span>
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
-<!-- - **Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory**<br>
+<!-- - **<a class="paper-title" href="https://arxiv.org/pdf/2604.01007">Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory</a>**<br>
 Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
-<span class="paper-venue-line"><span>Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> <strong>Series Total: 3.5K+ GitHub Stars</strong>)</span><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2604.01007">[PDF]</a><a href="https://github.com/aiming-lab/SimpleMem">[Code]</a></span></span> -->
+<span class="paper-venue-line"><span>Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> <strong>Series Total: 3.5K+ GitHub Stars</strong>)</span><span class="paper-resource-links"><a href="https://github.com/aiming-lab/SimpleMem">[Code]</a></span></span> -->
 
 
-<!-- - **Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study**<br>
+<!-- - **<a class="paper-title" href="https://arxiv.org/pdf/2506.04810">Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study</a>**<br>
 Yujun Zhou\*, Jiayi Ye\*, <u><strong>Zipeng Ling</strong></u>\*, Yufei Han, Yue Huang, Haomin Zhuang, Zhenwen Liang, Kehan Guo, Taicheng Guo, Xiangqi Wang, Xiangliang Zhang.<br>
-<span class="paper-venue-line"><strong class="paper-venue-name">EMNLP 2025 Findings --- Suzhou, China.</strong><span class="paper-resource-links"><a href="https://arxiv.org/pdf/2506.04810">[PDF]</a></span></span> -->
+<span class="paper-venue-line"><strong class="paper-venue-name">EMNLP 2025 Findings --- Suzhou, China.</strong></span> -->
 
 
-<!-- - **UXBench: Measuring the Actionability of LLM-Generated UX Critiques** [[PDF]](https://arxiv.org/pdf/2606.16262)<br>
+<!-- - **<a class="paper-title" href="https://arxiv.org/pdf/2606.16262">UXBench: Measuring the Actionability of LLM-Generated UX Critiques</a>**<br>
 Wenjie Wang, Yue Huang, <u><strong>Zipeng Ling</strong></u>, Han Bao, Hang Hua, Xiaonan Luo, Yu Jiang, Shiyi Du, Yuexing Hao, Xiaomin Li, Yuchen Ma, Dianzhuo Wang, Yanfang Ye, Xiangliang Zhang.<br>
 Preprint -->
 
 
-<!-- - **When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents** [[PDF]](https://arxiv.org/pdf/2605.11928)<br>
+<!-- - **<a class="paper-title" href="https://arxiv.org/pdf/2605.11928">When Simulation Lies: A Sim-to-Real Benchmark and Domain-Randomized RL Recipe for Tool-Use Agents</a>**<br>
 Xiaolin Zhou, Aojie Yuan, Zheng Luo, <u><strong>Zipeng Ling</strong></u>, Xixiao Pan, Yicheng Gao, Haiyue Zhang, Jiate Li, Shuli Jiang, Prince Zizhuang Wang, Zixuan Zhu, Jinbo Liu, Ryan A. Rossi, Hua Wei, Xiyang Hu.<br>
 **FAGEN@ICML 2026 Poster**
 
 
-- **NARRA-Gym for Evaluating Interactive Narrative Agents** [[PDF]](https://arxiv.org/pdf/2605.08503)<br>
+- **<a class="paper-title" href="https://arxiv.org/pdf/2605.08503">NARRA-Gym for Evaluating Interactive Narrative Agents</a>**<br>
 Yue Huang, Yuchen Ma, Jiayi Ye, Wenjie Wang, <u><strong>Zipeng Ling</strong></u>, Xingjian Hu, Yuexing Hao, Zichen Chen, Zhangchen Xu, Yunhong He, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Chaoran Chen, Toby Jia-Jun Li, Stefan Feuerriegel, Xiangliang Zhang.<br>
 Preprint -->
 
