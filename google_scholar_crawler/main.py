@@ -1,10 +1,15 @@
 from scholarly import scholarly
-import jsonpickle
 import json
+import sys
 from datetime import datetime
 import os
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID', '').strip()
+if not scholar_id:
+    sys.exit("GOOGLE_SCHOLAR_ID is empty or unset. Set it as a repository secret "
+             "(the 'user=' value in your Google Scholar profile URL).")
+
+author: dict = scholarly.search_author_id(scholar_id)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())

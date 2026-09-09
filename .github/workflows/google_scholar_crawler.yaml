@@ -1,30 +1,48 @@
 name: Get Citation Data
 
-on: 
- workflow_dispatch:
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:
+  page_build:
+  schedule:
+    - cron: '0 8 * * *'
+
+# Google Scholar rate-limits aggressively; never let two crawls overlap.
+concurrency:
+  group: google-scholar-stats
+  cancel-in-progress: true
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Without this a blocked/proxy-retrying crawl runs until the 6h job cap.
+    timeout-minutes: 20
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
+    - uses: actions/checkout@v4
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install deps
+      run: pip install -r google_scholar_crawler/requirements.txt
+
+    - name: Crawl
+      run: python main.py
+      working-directory: ./google_scholar_crawler
+      env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+
+    - name: Publish to google-scholar-stats branch
+      run: |
+        git init -b google-scholar-stats
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add ./*.json
+        git commit -m "Updated Citation Data"
+        git push --force \
+          "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" \
+          HEAD:google-scholar-stats
+      working-directory: ./google_scholar_crawler/results
