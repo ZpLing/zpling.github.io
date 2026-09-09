@@ -5,6 +5,12 @@ from datetime import datetime
 
 from scholarly import ProxyGenerator, scholarly
 
+# Default is 5 retries, and a CAPTCHA with no proxy sleeps 60-120s between
+# each before recursing for a second full pass - ~15 min to fail one strategy,
+# which blows the job timeout before the fallbacks get a turn. When the runner
+# IP is blocked it stays blocked, so extra retries buy nothing.
+scholarly.set_retries(2)
+
 # Google Scholar serves a CAPTCHA to datacenter IPs, which is what every GitHub
 # Actions runner has. A direct fetch usually fails there, so try progressively
 # more expensive strategies and use whichever one gets through first.

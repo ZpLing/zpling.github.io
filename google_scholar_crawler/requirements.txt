@@ -1,4 +1,13 @@
 scholarly==1.7.11
-# bibtexparser 2.x is a breaking rewrite that drops `bibtexparser.bibdatabase`,
-# which scholarly imports. Keep it on the v1 API.
+
+# scholarly 1.7.11 is unmaintained and pins none of its own deps, so a new
+# major release of any of these silently breaks the crawl. Both of the pins
+# below are for breakages already hit in CI:
+#
+#   bibtexparser 2.x  - rewrite that removed `bibtexparser.bibdatabase`,
+#                       which scholarly imports at module load.
+#   httpx 0.28        - removed the `proxies=` argument that scholarly passes
+#                       to httpx.Client in _new_session(). Breaks *every*
+#                       proxy path (FreeProxies and ScraperAPI alike).
 bibtexparser>=1.4.4,<2.0
+httpx>=0.24,<0.28
