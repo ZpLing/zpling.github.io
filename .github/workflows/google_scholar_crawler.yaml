@@ -2,7 +2,8 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
-  page_build:
+  # No page_build trigger: it fired a crawl on every Pages deploy, which both
+  # cancelled in-flight runs and burned Google Scholar's rate limit for nothing.
   schedule:
     - cron: '0 8 * * *'
 
@@ -18,7 +19,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     # Without this a blocked/proxy-retrying crawl runs until the 6h job cap.
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
     - uses: actions/checkout@v4
 
@@ -34,6 +35,9 @@ jobs:
       working-directory: ./google_scholar_crawler
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        # Optional. Without it the crawl falls back to free proxies, which
+        # Google Scholar blocks often enough that runs will fail intermittently.
+        SCRAPERAPI_KEY: ${{ secrets.SCRAPERAPI_KEY }}
 
     - name: Publish to google-scholar-stats branch
       run: |
