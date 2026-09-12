@@ -35,8 +35,8 @@ Throughout my academic journey, I have been fortunate to receive support from me
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 I will join Microsoft as a research intern!
-- *2026.08*: &nbsp;🎉 Two papers are accepted by EMNLP 2026 Main Conference, see you in Budapest (virtually)!
+- *2026.09*: &nbsp;🥳 I will join Microsoft as a research intern!
+- *2026.08*: &nbsp;🥳 Two papers are accepted by EMNLP 2026 Main Conference, see you in Budapest (virtually)!
 - *2026.02*: &nbsp;🎉 I will join University of Alberta as a Thesis-based M.Sc. student!
 - *2025.08*: &nbsp;🎉 One paper is accepted by EMNLP 2025 Findings, see you in Suzhou!
 - *2025.07*: &nbsp;🎉 I will join Bosch as a NLP research intern!
