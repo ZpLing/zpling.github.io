@@ -180,7 +180,7 @@ Preprint -->
 
 
 # 🎖 Honors and Awards
-- *2026.09:* EMNLP Oral Presentation (Top ~4%) × 2 
+- *2026.09:* EMNLP Oral Presentation (Top 3.7%) × 2 
 - *2026.08:* Bosch 2026 Q2 Innovation Promotion Award
 - *2024.12:* Merit-based Scholarship
 
