@@ -106,9 +106,9 @@ Preprint -->
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
 
-<!-- - **<a class="paper-title" href="https://arxiv.org/pdf/2604.01007">Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory</a>**<br>
-Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, Yanqing Liu, Siwei Han, Peng Xia, Haoqin Tu, Zeyu Zheng, Cihang Xie, Charles Fleming, Mingyu Ding, Huaxiu Yao.<br>
-<span class="paper-venue-line"><span>Preprint &nbsp; (<i class="fab fa-github" aria-hidden="true"></i> <strong>Series Total: 3.5K+ GitHub Stars</strong>)</span><span class="paper-resource-links"><a href="https://github.com/aiming-lab/SimpleMem">[Code]</a></span></span> -->
+- <span class="badge paper-venue-badge">Preprint</span> **<a class="paper-title" href="https://arxiv.org/pdf/2604.01007">Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory</a>**<br>
+Jiaqi Liu, <u><strong>Zipeng Ling</strong></u>, Shi Qiu, et al.<br>
+<a href="https://github.com/aiming-lab/SimpleMem"><img src="https://img.shields.io/github/stars/aiming-lab/SimpleMem?style=social" alt="GitHub Stars"></a>
 
 
 <!-- - **<a class="paper-title" href="https://arxiv.org/pdf/2506.04810">Dissecting Logical Reasoning in LLMs: A Fine-Grained Evaluation and Supervision Study</a>**<br>
