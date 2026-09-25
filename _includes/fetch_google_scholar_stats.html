@@ -1,0 +1,22 @@
+<!-- Google Scholar Stats -->
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign gsDataUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data.json" %}
+<script>
+  fetch("{{ gsDataUrl }}")
+    .then(function (res) { return res.ok ? res.json() : Promise.reject(res.status); })
+    .then(function (data) {
+      var total = document.getElementById('total_cit');
+      if (total) { total.textContent = data.citedby; }
+      var line = document.getElementById('gs_cit_line');
+      if (line) { line.style.display = ''; }
+      document.querySelectorAll('.show_paper_citations').forEach(function (el) {
+        var pub = data.publications[el.getAttribute('data')];
+        if (pub) { el.textContent = '| Citations: ' + pub.num_citations; }
+      });
+    })
+    .catch(function (err) { console.log('[gs-stats] citation data unavailable:', err); });
+</script>
