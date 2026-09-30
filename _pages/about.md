@@ -174,12 +174,12 @@ Preprint -->
 # 🎤 Talks
 - <span class="org-head"><img class="org-logo" src="/images/logos/hungexpo.png" alt="" aria-hidden="true"> **HUNGEXPO**</span><span class="org-loc">Budapest, Hungary</span>
 
-  *2026.10:* Session: Interpretability and Analysis of Models for NLP
+  *2026.10:* "Interpretability and Analysis of Models for NLP" Session
 
 
 - <span class="org-head"><img class="org-logo" src="/images/logos/hungexpo.png" alt="" aria-hidden="true"> **HUNGEXPO**</span><span class="org-loc">Budapest, Hungary</span>
 
-  *2026.10:* Session: NLP and Symbolic Reasoning
+  *2026.10:* "NLP and Symbolic Reasoning" Session
 
 
 - <span class="org-head"><img class="org-logo" src="/images/logos/uoft.png" alt="" aria-hidden="true"> **University of Toronto**</span><span class="org-loc">Toronto, Canada</span>
