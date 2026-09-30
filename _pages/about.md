@@ -172,17 +172,17 @@ Preprint -->
 
 
 # 🎤 Talks
-- <span class="org-head">**HUNGEXPO**</span><span class="org-loc">Budapest, Hungary</span>
+- <span class="org-head"><img class="org-logo" src="/images/logos/hungexpo.png" alt="" aria-hidden="true"> **HUNGEXPO**</span><span class="org-loc">Budapest, Hungary</span>
 
   *2026.10:* Session: Interpretability and Analysis of Models for NLP
 
 
-- <span class="org-head">**HUNGEXPO**</span><span class="org-loc">Budapest, Hungary</span>
+- <span class="org-head"><img class="org-logo" src="/images/logos/hungexpo.png" alt="" aria-hidden="true"> **HUNGEXPO**</span><span class="org-loc">Budapest, Hungary</span>
 
   *2026.10:* Session: NLP and Symbolic Reasoning
 
 
-- <span class="org-head">**University of Toronto**</span><span class="org-loc">Toronto, Canada</span>
+- <span class="org-head"><img class="org-logo" src="/images/logos/uoft.png" alt="" aria-hidden="true"> **University of Toronto**</span><span class="org-loc">Toronto, Canada</span>
 
   *2026.07:* Invited by Prof. Annie En-Shiun Lee
 
