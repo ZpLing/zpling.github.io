@@ -184,7 +184,7 @@ Preprint -->
 
 - <span class="org-head"><img class="org-logo" src="/images/logos/uoft.png" alt="" aria-hidden="true"> **University of Toronto**</span><span class="org-loc">Toronto, Canada</span>
 
-  *2026.07:* Invited by Prof. Annie En-Shiun Lee
+  *2026.07:* LLM Reasoning. Invited by Prof. Annie En-Shiun Lee
 
   <!-- Presented Paper: Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis. -->
 
