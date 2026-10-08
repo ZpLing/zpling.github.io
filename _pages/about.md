@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, and welcome to my website! I'm Zipeng Ling, a research intern at Microsoft Redmond and a thesis-based M.Sc. student (similar to an MPhil) in Computing Science at the [University of Alberta](https://www.ualberta.ca/en/index.html), where I'm fortunate to be advised by Prof. [Zhou Yang](https://homepage.zhouyang.me/). Prior to that, I received my B.Eng. in Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/).
+Hello, and welcome to my website! I'm Zipeng Ling, a research intern at Microsoft and a thesis-based M.Sc. student (similar to an MPhil) in Computing Science at the [University of Alberta](https://www.ualberta.ca/en/index.html), where I'm fortunate to be advised by Prof. [Zhou Yang](https://homepage.zhouyang.me/). Prior to that, I received my B.Eng. in Communication Engineering from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/en/).
 
 Throughout my academic journey, I have been fortunate to receive support from mentors and collaborators. Previously, I spent memorable time with Prof. [Huaxiu Yao](https://www.huaxiuyao.io/). In addition, I had the privilege of working with Prof. [Xuming Hu](https://xuminghu.github.io). Before that, I was fortunate to be advised by Prof. [Shichao Pei](https://scpei.github.io/). Earlier, my research began under the supervision of Prof. [Zhuying Li](https://zhuyingli.info/). I am also honored to work alongside [Yue Huang](https://howiehwong.github.io/), who has always offered me guidance throughout this stressful yet rewarding journey. Last but not least, I am grateful for my long-term collaboration with Prof. [Yao Wan](http://wanyao.me/).
 
