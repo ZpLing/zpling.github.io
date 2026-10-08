@@ -25,10 +25,10 @@ Throughout my academic journey, I have been fortunate to receive support from me
 <!-- <span style="font-family: 'Georgia', 'Times New Roman', serif; font-style: italic; color: #2c5aa0; font-weight: bold;">"Try something, you may succeed, you may fail. But make it your life's work to remake the world."</span> -----Tim Cook -->
 
 
-# 💡 Research Interests
+<!-- # 💡 Research Interests
 - **LLM Reasoning**: While LLMs can solve extremely challenging problems and output correct labels, their reasoning traces and thinking paradigms often remain flawed and unclear.
-- **AI Agent**: We study how agentic systems plan, collaborate and execute to solve complex tasks through multi-step decision-making.
-- **Retrieval-Augmented Generation (RAG)**: Optimizing how LLMs retrieve, comprehend, and make use of multi-modal information in databases for generation.
+- **AI Agent**: How agentic systems plan, collaborate and execute to solve complex tasks through multi-step decision-making.
+- **Retrieval-Augmented Generation (RAG)**: Optimizing how LLMs retrieve, comprehend, and make use of multi-modal information in databases for generation. -->
 
 
 <!-- My research interest includes neural machine translation and computer vision.  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
