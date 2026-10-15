@@ -89,9 +89,9 @@ Throughout my academic journey, I have been fortunate to receive support from me
 }
 </style>
 
-- <span class="badge paper-venue-badge">EMNLP’26 Oral</span> **<a class="paper-title" href="https://www.arxiv.org/pdf/2507.16199">LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty</a>**<br>
+- <span class="badge paper-venue-badge">EMNLP’26 Main</span> **<a class="paper-title" href="https://www.arxiv.org/pdf/2507.16199">LLM Abstention Can Be a Prompt Artifact, in Addition to Genuine Uncertainty</a>**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Yuehao Tang, et al.<br>
-<strong>Top 3.7% of Submissions</strong>
+<strong>Oral Presentation, Top 3.7%</strong>
 
 
 <!-- - **<a class="paper-title" href="https://www.arxiv.org/pdf/2509.20278">Objective Bias, Subjective Bias, or Both: Benchmarking LLMs on Different Question Forms and Instruction Settings</a>**<br>
@@ -99,9 +99,9 @@ Throughout my academic journey, I have been fortunate to receive support from me
 Preprint -->
 
 
-- <span class="badge paper-venue-badge">EMNLP’26 Oral</span> **<a class="paper-title" href="https://arxiv.org/pdf/2604.14121">Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis</a>**<br>
+- <span class="badge paper-venue-badge">EMNLP’26 Main</span> **<a class="paper-title" href="https://arxiv.org/pdf/2604.14121">Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis</a>**<br>
 <u><strong>Zipeng Ling</strong></u>, Shuliang Liu, Seonil Son, et al.<br>
-<strong>Top 3.7% of Submissions</strong>
+<strong>Oral Presentation, Top 3.7%</strong>
 
 
 <!-- - <span class="badge" style="position: relative; display: inline-block; margin-right: 0.5em; margin-top: 0; margin-left: 0;">preprint</span> **Evaluating and Improving Reasoning Traces  via Fine-Grained and Term-Driven Analysis** [Arxiv TBD] <u><strong>Zipeng Ling</strong></u>, Zhaoyang Wang, Shi Qiu, Huaxiu Yao. -->
