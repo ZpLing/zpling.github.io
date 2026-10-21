@@ -75,6 +75,10 @@ include:
   - BingSiteAuth.xml
 exclude:
   - docs
+  - CLAUDE.md
+  - check_seo.sh
+  - run_server.sh
+  - Gemfile.lock
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -135,6 +139,11 @@ defaults:
     values:
       layout: default
       author_profile: true
+  # 站长验证文件不进 sitemap
+  - scope:
+      path: "google3ae90f47b64933c5.html"
+    values:
+      sitemap: false
 
 
 # Sass/SCSS
