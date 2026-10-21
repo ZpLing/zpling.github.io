@@ -11,5 +11,5 @@ Allow: /
 User-agent: Baiduspider
 Allow: /
 
-Sitemap: https://zpling.github.io/sitemap.xml
+Sitemap: https://v-zipengling.github.io/sitemap.xml
 

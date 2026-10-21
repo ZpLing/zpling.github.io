@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Zipeng Ling"
 # description              : "Research for Fun"
-repository               : "ZpLing/zpling.github.io"
+repository               : "v-zipengling/v-zipengling.github.io"
 google_scholar_stats_use_cdn : true
 
 # Site URL (重要！搜索引擎需要这个来生成正确的链接)
-url                      : "https://zpling.github.io"  # 网站的完整URL
+url                      : "https://v-zipengling.github.io"  # 网站的完整URL
 baseurl                  : ""  # GitHub Pages个人站点不需要baseurl
 
 # google analytics
@@ -43,7 +43,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZpLing"
+  github           : "v-zipengling"
   google_plus      :
   keybase          :
   instagram        :

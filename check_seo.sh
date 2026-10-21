@@ -23,12 +23,12 @@ FAILED_CHECKS=0
 echo "1️⃣  检查 _config.yml 中的 URL 配置..."
 TOTAL_CHECKS=$((TOTAL_CHECKS+1))
 
-if grep -q 'url.*:.*"https://zpling.github.io"' _config.yml; then
+if grep -q 'url.*:.*"https://v-zipengling.github.io"' _config.yml; then
     echo -e "${GREEN}✅ URL 配置正确${NC}"
     PASSED_CHECKS=$((PASSED_CHECKS+1))
 else
     echo -e "${RED}❌ URL 配置错误或缺失${NC}"
-    echo "   应该是: url: \"https://zpling.github.io\""
+    echo "   应该是: url: \"https://v-zipengling.github.io\""
     FAILED_CHECKS=$((FAILED_CHECKS+1))
 fi
 echo ""
@@ -86,7 +86,7 @@ echo "5️⃣  检查生成的 sitemap.xml..."
 TOTAL_CHECKS=$((TOTAL_CHECKS+1))
 
 if [ -f "_site/sitemap.xml" ]; then
-    if grep -q "https://zpling.github.io" _site/sitemap.xml; then
+    if grep -q "https://v-zipengling.github.io" _site/sitemap.xml; then
         echo -e "${GREEN}✅ Sitemap 使用完整 URL${NC}"
         PASSED_CHECKS=$((PASSED_CHECKS+1))
         
@@ -172,7 +172,7 @@ else
     echo ""
     
     # 针对性建议
-    if ! grep -q "https://zpling.github.io" _site/sitemap.xml 2>/dev/null; then
+    if ! grep -q "https://v-zipengling.github.io" _site/sitemap.xml 2>/dev/null; then
         echo "🔧 最优先: 修复 Sitemap URL 格式"
         echo "   执行: git commit --allow-empty -m 'Trigger rebuild' && git push"
         echo "   等待 GitHub Pages 重新生成 sitemap"
@@ -182,7 +182,7 @@ else
     if [ -z "$GOOGLE_VERIFICATION" ]; then
         echo "🔧 获取 Google 验证码"
         echo "   访问: https://search.google.com/search-console/"
-        echo "   添加资源: https://zpling.github.io"
+        echo "   添加资源: https://v-zipengling.github.io"
         echo "   选择 HTML 标签验证，复制验证码到 _config.yml"
         echo ""
     fi
@@ -190,7 +190,7 @@ else
     if [ -z "$BING_VERIFICATION" ]; then
         echo "🔧 获取 Bing 验证码"
         echo "   访问: https://www.bing.com/webmasters/"
-        echo "   添加站点: https://zpling.github.io"
+        echo "   添加站点: https://v-zipengling.github.io"
         echo "   选择 HTML 元标记验证，复制验证码到 _config.yml"
         echo ""
     fi
